@@ -1,0 +1,4376 @@
+AEther Burst
+1U
+Instant
+Return up to X target creatures to their owners' hands, where X is one plus the number of cards named AEther Burst in all graveyards as you cast AEther Burst.
+OD-C
+
+Abandoned Outpost
+Land
+Abandoned Outpost enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Abandoned Outpost: Add one mana of any color to your mana pool.
+OD-C
+
+Aboshan's Desire
+U
+Enchantment -- Aura
+Enchant creature
+Enchanted creature has flying.
+Threshold -- Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)
+OD-C
+
+Aboshan, Cephalid Emperor
+4UU
+Legendary Creature -- Cephalid
+3/3
+Tap an untapped Cephalid you control: Tap target permanent.
+{U}{U}{U}: Tap all creatures without flying.
+OD-R
+
+Accelerate
+1R
+Instant
+Target creature gains haste until end of turn.
+Draw a card.
+TOR-C
+
+Acceptable Losses
+3R
+Sorcery
+As an additional cost to cast Acceptable Losses, discard a card at random.
+Acceptable Losses deals 5 damage to target creature.
+OD-C
+
+Acorn Harvest
+3G
+Sorcery
+Put two 1/1 green Squirrel creature tokens onto the battlefield.
+Flashback--{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-C
+
+Aegis of Honor
+W
+Enchantment
+{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.
+OD-R
+
+Afflict
+2B
+Instant
+Target creature gets -1/-1 until end of turn.
+Draw a card.
+OD-C, 10E-C
+
+Alter Reality
+1U
+Instant
+Change the text of target spell or permanent by replacing all instances of one color word with another. (This effect lasts indefinitely.)
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-R
+
+Ambassador Laquatus
+1UU
+Legendary Creature -- Merfolk Wizard
+1/3
+{3}: Target player puts the top three cards of his or her library into his or her graveyard.
+TOR-R, 10E-R
+
+Amugaba
+5UU
+Creature -- Illusion
+6/6
+Flying
+{2}{U}, Discard a card: Return Amugaba to its owner's hand.
+OD-R
+
+Anarchist
+4R
+Creature -- Human Wizard
+2/2
+When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.
+EX-C, OD-C, 9ED-U
+
+Ancestor's Chosen
+5WW
+Creature -- Human Cleric
+4/4
+First strike (This creature deals combat damage before creatures without first strike.)
+When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.
+JUD-U, 10E-U
+
+Ancestral Tribute
+5WW
+Sorcery
+You gain 2 life for each card in your graveyard.
+Flashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-R
+
+Angel of Retribution
+6W
+Creature -- Angel
+5/5
+Flying, first strike
+TOR-R
+
+Angelic Wall
+1W
+Creature -- Wall
+0/4
+Defender, flying
+P2-C, OD-C, 10E-C, AVR-C
+
+Anger
+3R
+Creature -- Incarnation
+2/2
+Haste
+As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.
+JUD-U, CMD-U
+
+Animal Boneyard
+2W
+Enchantment -- Aura
+Enchant land
+Enchanted land has "{T}, Sacrifice a creature: You gain life equal to that creature's toughness."
+OD-U
+
+Anurid Barkripper
+1GG
+Creature -- Frog Beast
+2/2
+Threshold -- Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.
+JUD-C
+
+Anurid Brushhopper
+1GW
+Creature -- Frog Beast
+3/4
+Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.
+JUD-R
+
+Anurid Scavenger
+2G
+Creature -- Frog Beast
+3/3
+Protection from black
+At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.
+TOR-U
+
+Anurid Swarmsnapper
+2G
+Creature -- Frog Beast
+1/4
+Reach (This creature can block creatures with flying.)
+{1}{G}: Anurid Swarmsnapper can block an additional creature this turn.
+JUD-U
+
+Aquamoeba
+1U
+Creature -- Elemental Beast
+1/3
+Discard a card: Switch Aquamoeba's power and toughness until end of turn.
+TOR-C
+
+Arcane Teachings
+2R
+Enchantment -- Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +2/+2 and has "{T}: This creature deals 1 damage to target creature or player."
+JUD-C, 10E-U
+
+Arrogant Wurm
+3GG
+Creature -- Wurm
+4/4
+Trample
+Madness {2}{G} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-U
+
+Ashen Firebeast
+6RR
+Creature -- Elemental Beast
+6/6
+{1}{R}: Ashen Firebeast deals 1 damage to each creature without flying.
+OD-R
+
+Atogatog
+WUBRG
+Legendary Creature -- Atog
+5/5
+Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where X is the sacrificed creature's power.
+OD-R
+
+Aura Graft
+1U
+Instant
+Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.
+OD-U, 10E-U
+
+Auramancer
+2W
+Creature -- Human Wizard
+2/2
+When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+OD-C, M12-C, PC2-C
+
+Aven Archer
+3WW
+Creature -- Bird Soldier Archer
+2/2
+Flying
+{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.
+OD-U
+
+Aven Cloudchaser
+3W
+Creature -- Bird Soldier
+2/2
+Flying (This creature can't be blocked except by creatures with flying or reach.) 
+When Aven Cloudchaser enters the battlefield, destroy target enchantment.
+OD-C, 8ED-C, 9ED-C, 10E-C
+
+Aven Fisher
+3U
+Creature -- Bird Soldier
+2/2
+Flying (This creature can't be blocked except by creatures with flying or reach.) 
+When Aven Fisher dies, you may draw a card.
+OD-C, 8ED-C, 9ED-C, 10E-C
+
+Aven Flock
+4W
+Creature -- Bird Soldier
+2/3
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{W}: Aven Flock gets +0/+1 until end of turn.
+OD-C, 8ED-C, 9ED-C
+
+Aven Fogbringer
+3U
+Creature -- Bird Wizard
+2/1
+Flying
+When Aven Fogbringer enters the battlefield, return target land to its owner's hand.
+JUD-C
+
+Aven Shrine
+1WW
+Enchantment
+Whenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell.
+OD-R
+
+Aven Smokeweaver
+2UU
+Creature -- Bird Soldier
+2/3
+Flying, protection from red
+OD-U
+
+Aven Trooper
+3W
+Creature -- Bird Soldier
+1/1
+Flying
+{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.
+TOR-C
+
+Aven Warcraft
+2W
+Instant
+Creatures you control get +0/+2 until end of turn.
+Threshold -- If seven or more cards are in your graveyard, choose a color. Creatures you control also gain protection from the chosen color until end of turn.
+JUD-U
+
+Aven Windreader
+3UU
+Creature -- Bird Soldier Wizard
+3/3
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{U}: Target player reveals the top card of his or her library.
+OD-C, 9ED-C, 10E-C
+
+Balancing Act
+2WW
+Sorcery
+Each player chooses a number of permanents he or she controls equal to the number of permanents controlled by the player who controls the fewest, then sacrifices the rest. Each player discards cards the same way.
+OD-R
+
+Balshan Beguiler
+2U
+Creature -- Human Wizard
+1/1
+Whenever Balshan Beguiler deals combat damage to a player, that player reveals the top two cards of his or her library. You choose one of those cards and put it into his or her graveyard.
+OD-U
+
+Balshan Collaborator
+3U
+Creature -- Bird Soldier
+2/2
+Flying
+{B}: Balshan Collaborator gets +1/+1 until end of turn.
+TOR-U
+
+Balshan Griffin
+3UU
+Creature -- Griffin
+3/2
+Flying
+{1}{U}, Discard a card: Return Balshan Griffin to its owner's hand.
+OD-U
+
+Balthor the Defiled
+2BB
+Legendary Creature -- Zombie Dwarf
+2/2
+Minion creatures get +1/+1.
+{B}{B}{B}, Exile Balthor the Defiled: Each player returns all black and all red creature cards from his or her graveyard to the battlefield.
+JUD-R
+
+Balthor the Stout
+1RR
+Legendary Creature -- Dwarf Barbarian
+2/2
+Other Barbarian creatures get +1/+1.
+{R}: Another target Barbarian creature gets +1/+0 until end of turn.
+TOR-R
+
+Bamboozle
+2U
+Sorcery
+Target player reveals the top four cards of his or her library. You choose two of those cards and put them into his or her graveyard. Put the rest on top of his or her library in any order.
+OD-U
+
+Barbarian Bully
+2R
+Creature -- Human Barbarian
+2/2
+Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Activate this ability only once each turn.
+JUD-C
+
+Barbarian Lunatic
+2R
+Creature -- Human Barbarian
+2/1
+{2}{R}, Sacrifice Barbarian Lunatic: Barbarian Lunatic deals 2 damage to target creature.
+OD-C
+
+Barbarian Outcast
+1R
+Creature -- Human Barbarian Beast
+2/2
+When you control no Swamps, sacrifice Barbarian Outcast.
+TOR-C
+
+Barbarian Ring
+Land
+{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.
+Threshold -- {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Bash to Bits
+3R
+Instant
+Destroy target artifact.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Basking Rootwalla
+G
+Creature -- Lizard
+1/1
+{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-C
+
+Battle Screech
+2WW
+Sorcery
+Put two 1/1 white Bird creature tokens with flying onto the battlefield.
+Flashback--Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-U
+
+Battle Strain
+1R
+Enchantment
+Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller.
+OD-U
+
+Battle of Wits
+3UU
+Enchantment
+At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.
+OD-R, 9ED-R, M13-R
+
+Battlefield Scrounger
+3GG
+Creature -- Centaur
+3/3
+Threshold -- Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn, and only if seven or more cards are in your graveyard.
+JUD-C
+
+Battlewise Aven
+3W
+Creature -- Bird Soldier
+2/2
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.
+JUD-C
+
+Bearscape
+1GG
+Enchantment
+{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.
+OD-R
+
+Beast Attack
+2GGG
+Instant
+Put a 4/4 green Beast creature token onto the battlefield.
+Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Beloved Chaplain
+1W
+Creature -- Human Cleric
+1/1
+Protection from creatures
+OD-U
+
+Benevolent Bodyguard
+W
+Creature -- Human Cleric
+1/1
+Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.
+JUD-C
+
+Blazing Salvo
+R
+Instant
+Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.
+OD-C
+
+Blessed Orator
+3W
+Creature -- Human Cleric
+1/4
+Other creatures you control get +0/+1.
+OD-U, 9ED-U
+
+Bloodcurdler
+1B
+Creature -- Horror
+1/1
+Flying
+At the beginning of your upkeep, put the top card of your library into your graveyard.
+Threshold -- As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has "At the beginning of your end step, exile two cards from your graveyard."
+OD-R
+
+Bog Wreckage
+Land
+Bog Wreckage enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.
+OD-C
+
+Bomb Squad
+3R
+Creature -- Dwarf
+1/1
+{T}: Put a fuse counter on target creature.
+At the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.
+Whenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.
+OD-R
+
+Boneshard Slasher
+1B
+Creature -- Horror
+1/1
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has "When Boneshard Slasher becomes the target of a spell or ability, sacrifice it."
+TOR-U
+
+Book Burning
+1R
+Sorcery
+Any player may have Book Burning deal 6 damage to him or her. If no one does, target player puts the top six cards of his or her library into his or her graveyard.
+JUD-C
+
+Border Patrol
+4W
+Creature -- Human Nomad
+1/6
+Vigilance
+JUD-C
+
+Braids, Cabal Minion
+2BB
+Legendary Creature -- Human Minion
+2/2
+At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.
+OD-R
+
+Brawn
+3G
+Creature -- Incarnation
+3/3
+Trample
+As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.
+JUD-U, CMD-U
+
+Breaking Point
+1RR
+Sorcery
+Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures. Creatures destroyed this way can't be regenerated.
+JUD-R
+
+Breakthrough
+XU
+Sorcery
+Draw four cards, then choose X cards in your hand and discard the rest.
+TOR-U
+
+Browbeat
+2R
+Sorcery
+Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.
+JUD-U, TSP-S, HOP-U
+
+Buried Alive
+2B
+Sorcery
+Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+WL-U, OD-U, CMD-U
+
+Burning Sands
+3RR
+Enchantment
+Whenever a creature dies, that creature's controller sacrifices a land.
+OD-R
+
+Burning Wish
+1R
+Sorcery
+You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.
+JUD-R
+
+Cabal Coffers
+Land
+{2}, {T}: Add {B} to your mana pool for each Swamp you control.
+TOR-U, HOP-U
+
+Cabal Inquisitor
+1B
+Creature -- Human Minion
+1/1
+Threshold -- {1}{B}, {T}, Exile two cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery, and only if seven or more cards are in your graveyard.
+OD-C
+
+Cabal Patriarch
+3BBB
+Legendary Creature -- Human Wizard
+5/5
+{2}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
+{2}{B}, Exile a creature card from your graveyard: Target creature gets -2/-2 until end of turn.
+OD-R
+
+Cabal Pit
+Land
+{T}: Add {B} to your mana pool. Cabal Pit deals 1 damage to you.
+Threshold -- {B}, {T}, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Cabal Ritual
+1B
+Instant
+Add {B}{B}{B} to your mana pool.
+Threshold -- Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.
+TOR-C
+
+Cabal Shrine
+1BB
+Enchantment
+Whenever a player casts a spell, that player discards X cards, where X is the number of cards in all graveyards with the same name as that spell.
+OD-R
+
+Cabal Surgeon
+2BB
+Creature -- Human Minion
+2/1
+{2}{B}{B}, {T}, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand.
+TOR-C
+
+Cabal Therapy
+B
+Sorcery
+Name a nonland card. Target player reveals his or her hand and discards all cards with that name.
+Flashback--Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-U
+
+Cabal Torturer
+1BB
+Creature -- Human Minion
+1/1
+{B}, {T}: Target creature gets -1/-1 until end of turn.
+Threshold -- {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+TOR-C
+
+Cabal Trainee
+B
+Creature -- Human Minion
+1/1
+Sacrifice Cabal Trainee: Target creature gets -2/-0 until end of turn.
+JUD-C
+
+Cagemail
+1W
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +2/+2 and can't attack.
+JUD-C
+
+Call of the Herd
+2G
+Sorcery
+Put a 3/3 green Elephant creature token onto the battlefield.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-R, TSP-S
+
+Canopy Claws
+G
+Instant
+Target creature loses flying until end of turn.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C
+
+Cantivore
+1WW
+Creature -- Lhurgoyf
+*/*
+Vigilance
+Cantivore's power and toughness are each equal to the number of enchantment cards in all graveyards.
+OD-R
+
+Careful Study
+U
+Sorcery
+Draw two cards, then discard two cards.
+OD-C
+
+Carrion Rats
+B
+Creature -- Rat
+2/1
+Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.
+TOR-C
+
+Carrion Wurm
+3BB
+Creature -- Zombie Wurm
+6/5
+Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.
+TOR-U
+
+Cartographer
+2G
+Creature -- Human
+2/2
+When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.
+EX-U, OD-C
+
+Catalyst Stone
+2
+Artifact
+Flashback costs you pay cost up to {2} less.
+Flashback costs your opponents pay cost {2} more.
+OD-R
+
+Caustic Tar
+4BB
+Enchantment -- Aura
+Enchant land
+Enchanted land has "{T}: Target player loses 3 life."
+OD-U
+
+Cease-Fire
+2W
+Instant
+Target player can't cast creature spells this turn.
+Draw a card.
+OD-C
+
+Centaur Chieftain
+3G
+Creature -- Centaur
+3/3
+Haste
+Threshold -- As long as seven or more cards are in your graveyard, Centaur Chieftain has "When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn."
+TOR-U
+
+Centaur Garden
+Land
+{T}: Add {G} to your mana pool. Centaur Garden deals 1 damage to you.
+Threshold -- {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Centaur Rootcaster
+3G
+Creature -- Centaur Druid
+2/2
+Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+JUD-C
+
+Centaur Veteran
+5G
+Creature -- Centaur
+3/3
+Trample
+{G}, Discard a card: Regenerate Centaur Veteran.
+TOR-C
+
+Cephalid Aristocrat
+4U
+Creature -- Cephalid
+3/3
+Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.
+TOR-C
+
+Cephalid Broker
+3U
+Creature -- Cephalid
+2/2
+{T}: Target player draws two cards, then discards two cards.
+OD-U
+
+Cephalid Coliseum
+Land
+{T}: Add {U} to your mana pool. Cephalid Coliseum deals 1 damage to you.
+Threshold -- {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Cephalid Constable
+1UU
+Creature -- Cephalid Wizard
+1/1
+Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.
+JUD-R, 10E-R
+
+Cephalid Illusionist
+1U
+Creature -- Cephalid Wizard
+1/1
+Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard.
+{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.
+TOR-U
+
+Cephalid Inkshrouder
+2U
+Creature -- Cephalid
+2/1
+Discard a card: Cephalid Inkshrouder gains shroud until end of turn and is unblockable this turn. (A permanent with shroud can't be the target of spells or abilities.)
+JUD-U
+
+Cephalid Looter
+2U
+Creature -- Cephalid Rogue
+2/1
+{T}: Target player draws a card, then discards a card.
+OD-C
+
+Cephalid Retainer
+2UU
+Creature -- Cephalid
+2/3
+{U}{U}: Tap target creature without flying.
+OD-R
+
+Cephalid Sage
+3U
+Creature -- Cephalid
+2/3
+Threshold -- As long as seven or more cards are in your graveyard, Cephalid Sage has "When Cephalid Sage enters the battlefield, draw three cards, then discard two cards."
+TOR-U
+
+Cephalid Scout
+1U
+Creature -- Cephalid Wizard Scout
+1/1
+Flying
+{2}{U}, Sacrifice a land: Draw a card.
+OD-C
+
+Cephalid Shrine
+1UU
+Enchantment
+Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell.
+OD-R
+
+Cephalid Snitch
+1U
+Creature -- Cephalid Wizard
+1/1
+Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.
+TOR-C
+
+Cephalid Vandal
+1U
+Creature -- Cephalid Rogue
+1/1
+At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.
+TOR-R
+
+Chainer's Edict
+1B
+Sorcery
+Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-U
+
+Chainer, Dementia Master
+3BB
+Legendary Creature -- Human Minion
+3/3
+Nightmare creatures get +1/+1.
+{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.
+When Chainer, Dementia Master leaves the battlefield, exile all Nightmares.
+TOR-R
+
+Chainflinger
+3R
+Creature -- Beast
+2/2
+{1}{R}, {T}: Chainflinger deals 1 damage to target creature or player.
+Threshold -- {2}{R}, {T}: Chainflinger deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.
+OD-C
+
+Chamber of Manipulation
+2UU
+Enchantment -- Aura
+Enchant land
+Enchanted land has "{T}, Discard a card: Gain control of target creature until end of turn."
+OD-U
+
+Chance Encounter
+2RR
+Enchantment
+Whenever you win a coin flip, put a luck counter on Chance Encounter.
+At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.
+OD-R
+
+Charmed Pendant
+4
+Artifact
+{T}, Put the top card of your library into your graveyard: For each colored mana symbol in that card's mana cost, add one mana of that color to your mana pool. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B} to your mana pool.)
+OD-R
+
+Chastise
+3W
+Instant
+Destroy target attacking creature. You gain life equal to its power.
+JUD-U, 8ED-U, 9ED-U
+
+Chatter of the Squirrel
+G
+Sorcery
+Put a 1/1 green Squirrel creature token onto the battlefield.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Childhood Horror
+3B
+Creature -- Horror
+2/2
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block.
+OD-U
+
+Chlorophant
+GGG
+Creature -- Elemental
+1/1
+At the beginning of your upkeep, you may put a +1/+1 counter on Chlorophant.
+Threshold -- As long as seven or more cards are in your graveyard, Chlorophant has "At the beginning of your upkeep, you may put another +1/+1 counter on Chlorophant."
+OD-R
+
+Churning Eddy
+3U
+Sorcery
+Return target creature and target land to their owners' hands.
+TOR-C
+
+Circular Logic
+2U
+Instant
+Counter target spell unless its controller pays {1} for each card in your graveyard.
+Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-U
+
+Cleansing Meditation
+1WW
+Sorcery
+Destroy all enchantments.
+Threshold -- If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield.
+TOR-U
+
+Coffin Purge
+B
+Instant
+Exile target card from a graveyard.
+Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Cognivore
+6UU
+Creature -- Lhurgoyf
+*/*
+Flying
+Cognivore's power and toughness are each equal to the number of instant cards in all graveyards.
+OD-R
+
+Commander Eesha
+2WW
+Legendary Creature -- Bird Soldier
+2/4
+Flying, protection from creatures
+JUD-R
+
+Compulsion
+1U
+Enchantment
+{1}{U}, Discard a card: Draw a card.
+{1}{U}, Sacrifice Compulsion: Draw a card.
+TOR-U
+
+Concentrate
+2UU
+Sorcery
+Draw three cards.
+OD-U, 8ED-U, PC2-U
+
+Confessor
+W
+Creature -- Human Cleric
+1/1
+Whenever a player discards a card, you may gain 1 life.
+OD-C
+
+Coral Net
+U
+Enchantment -- Aura
+Enchant green or white creature
+Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you discard a card."
+TOR-C
+
+Crackling Club
+R
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +1/+0.
+Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.
+TOR-C
+
+Crashing Centaur
+4GG
+Creature -- Centaur
+3/4
+{G}, Discard a card: Crashing Centaur gains trample until end of turn.
+Threshold -- As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)
+OD-U
+
+Crazed Firecat
+5RR
+Creature -- Elemental Cat
+4/4
+When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.
+TOR-U
+
+Crippling Fatigue
+1BB
+Sorcery
+Target creature gets -2/-2 until end of turn.
+Flashback--{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-C
+
+Crush of Wurms
+6GGG
+Sorcery
+Put three 6/6 green Wurm creature tokens onto the battlefield.
+Flashback {9}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-R
+
+Crypt Creeper
+1B
+Creature -- Zombie
+2/1
+Sacrifice Crypt Creeper: Exile target card from a graveyard.
+OD-C, AVR-C
+
+Crystal Quarry
+Land
+{T}: Add {1} to your mana pool.
+{5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.
+OD-R
+
+Cultural Exchange
+4UU
+Sorcery
+Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)
+OD-R
+
+Cunning Wish
+2U
+Instant
+You may choose an instant card you own from outside the game, reveal that card, and put it into your hand. Exile Cunning Wish.
+JUD-R
+
+Cursed Monstrosity
+4B
+Creature -- Horror
+4/3
+Flying
+Whenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.
+OD-R
+
+Darkwater Catacombs
+Land
+{1}, {T}: Add {U}{B} to your mana pool.
+OD-R
+
+Darkwater Egg
+1
+Artifact
+{2}, {T}, Sacrifice Darkwater Egg: Add {U}{B} to your mana pool. Draw a card.
+OD-U
+
+Dawn of the Dead
+2BBB
+Enchantment
+At the beginning of your upkeep, you lose 1 life.
+At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+TOR-R
+
+Death Wish
+1BB
+Sorcery
+You may choose a card you own from outside the game and put it into your hand. You lose half your life, rounded up. Exile Death Wish.
+JUD-R
+
+Decaying Soil
+1BB
+Enchantment
+At the beginning of your upkeep, exile a card from your graveyard.
+Threshold -- As long as seven or more cards are in your graveyard, Decaying Soil has "Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {1}. If you do, return that card to your hand."
+OD-R
+
+Decimate
+2RG
+Sorcery
+Destroy target artifact, target creature, target enchantment, and target land.
+OD-R
+
+Decompose
+1B
+Sorcery
+Exile up to three target cards from a single graveyard.
+OD-U
+
+Dedicated Martyr
+W
+Creature -- Human Cleric
+1/1
+{W}, Sacrifice Dedicated Martyr: You gain 3 life.
+OD-C
+
+Deep Analysis
+3U
+Sorcery
+Target player draws two cards.
+Flashback--{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-C
+
+Deep Reconnaissance
+2G
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Flashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Defy Gravity
+U
+Instant
+Target creature gains flying until end of turn.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C
+
+Delaying Shield
+3W
+Enchantment
+If damage would be dealt to you, put that many delay counters on Delaying Shield instead.
+At the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.
+OD-R
+
+Deluge
+2U
+Instant
+Tap all creatures without flying.
+OD-U, 10E-U
+
+Dematerialize
+3U
+Sorcery
+Return target permanent to its owner's hand.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Demolish
+3R
+Sorcery
+Destroy target artifact or land.
+OD-U, 8ED-U, 9ED-U, 10E-C, ZEN-C, M11-C, AVR-C
+
+Demoralize
+2R
+Instant
+Each creature can't be blocked this turn except by two or more creatures.
+Threshold -- If seven or more cards are in your graveyard, creatures can't block this turn.
+OD-C
+
+Deserted Temple
+Land
+{T}: Add {1} to your mana pool.
+{1}, {T}: Untap target land.
+OD-R
+
+Devastating Dreams
+RR
+Sorcery
+As an additional cost to cast Devastating Dreams, discard X cards at random.
+Each player sacrifices X lands. Devastating Dreams deals X damage to each creature.
+TOR-R
+
+Devoted Caretaker
+W
+Creature -- Human Cleric
+1/2
+{W}, {T}: Target permanent you control gains protection from instant spells and from sorcery spells until end of turn.
+OD-R
+
+Diabolic Tutor
+2BB
+Sorcery
+Search your library for a card and put that card into your hand. Then shuffle your library.
+OD-U, 8ED-U, 9ED-U, 10E-U, M10-U, M11-U, CMD-U, M12-U
+
+Diligent Farmhand
+G
+Creature -- Human Druid
+1/1
+{1}{G}, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+If Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.
+OD-C
+
+Dirty Wererat
+3B
+Creature -- Human Rat Minion
+2/3
+{B}, Discard a card: Regenerate Dirty Wererat.
+Threshold -- As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.
+OD-C
+
+Divert
+U
+Instant
+Change the target of target spell with a single target unless that spell's controller pays {2}.
+OD-R
+
+Divine Sacrament
+1WW
+Enchantment
+White creatures get +1/+1.
+Threshold -- White creatures get an additional +1/+1 as long as seven or more cards are in your graveyard.
+OD-R
+
+Dogged Hunter
+2W
+Creature -- Human Nomad
+1/1
+{T}: Destroy target creature token.
+OD-R
+
+Dreamwinder
+3U
+Creature -- Serpent
+4/3
+Dreamwinder can't attack unless defending player controls an Island.
+{U}, Sacrifice an Island: Target land becomes an Island until end of turn.
+OD-C
+
+Druid Lyrist
+G
+Creature -- Human Druid
+1/1
+{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment.
+OD-C
+
+Druid's Call
+1G
+Enchantment -- Aura
+Enchant creature
+Whenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+OD-U
+
+Dusk Imp
+2B
+Creature -- Imp
+2/1
+Flying
+OD-C, 8ED-C, 10E-C
+
+Dwarven Bloodboiler
+RRR
+Creature -- Dwarf
+2/2
+Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.
+JUD-R
+
+Dwarven Driller
+3R
+Creature -- Dwarf
+2/2
+{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.
+JUD-U
+
+Dwarven Grunt
+R
+Creature -- Dwarf
+1/1
+Mountainwalk
+OD-C
+
+Dwarven Recruiter
+2R
+Creature -- Dwarf
+2/2
+When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+OD-U
+
+Dwarven Scorcher
+R
+Creature -- Dwarf
+1/1
+Sacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.
+JUD-C
+
+Dwarven Shrine
+1RR
+Enchantment
+Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.
+OD-R
+
+Dwarven Strike Force
+4R
+Creature -- Dwarf Berserker
+4/3
+Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.
+OD-U
+
+Dwell on the Past
+G
+Sorcery
+Target player shuffles up to four target cards from his or her graveyard into his or her library.
+TOR-U
+
+Earnest Fellowship
+1W
+Enchantment
+Each creature has protection from its colors.
+OD-R
+
+Earsplitting Rats
+3B
+Creature -- Rat
+2/1
+When Earsplitting Rats enters the battlefield, each player discards a card.
+Discard a card: Regenerate Earsplitting Rats.
+JUD-C
+
+Earth Rift
+3R
+Sorcery
+Destroy target land.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Elephant Ambush
+2GG
+Instant
+Put a 3/3 green Elephant creature token onto the battlefield.
+Flashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Elephant Guide
+2G
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.
+JUD-U
+
+Ember Beast
+2R
+Creature -- Beast
+3/4
+Ember Beast can't attack or block alone.
+OD-C, GTC-C
+
+Ember Shot
+6R
+Instant
+Ember Shot deals 3 damage to target creature or player.
+Draw a card.
+JUD-C
+
+Embolden
+2W
+Instant
+Prevent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Engulfing Flames
+R
+Instant
+Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Enslaved Dwarf
+R
+Creature -- Dwarf
+1/1
+{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.
+TOR-C
+
+Entomb
+B
+Instant
+Search your library for a card and put that card into your graveyard. Then shuffle your library.
+OD-R
+
+Envelop
+U
+Instant
+Counter target sorcery spell.
+JUD-C
+
+Epic Struggle
+2GG
+Enchantment
+At the beginning of your upkeep, if you control twenty or more creatures, you win the game.
+JUD-R
+
+Epicenter
+4R
+Sorcery
+Target player sacrifices a land.
+Threshold -- Each player sacrifices all lands he or she controls instead if seven or more cards are in your graveyard.
+OD-R
+
+Equal Treatment
+1W
+Instant
+If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.
+Draw a card.
+TOR-U
+
+Erhnam Djinn
+3G
+Creature -- Djinn
+4/5
+At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+AN-R, CH-U, JUD-R
+
+Escape Artist
+1U
+Creature -- Human Wizard
+1/1
+Escape Artist is unblockable.
+{U}, Discard a card: Return Escape Artist to its owner's hand.
+OD-C
+
+Execute
+2B
+Instant
+Destroy target white creature. It can't be regenerated.
+Draw a card.
+OD-U, 8ED-U, 9ED-U
+
+Exoskeletal Armor
+1G
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.
+JUD-U
+
+Extract
+U
+Sorcery
+Search target player's library for a card and exile it. Then that player shuffles his or her library.
+OD-R
+
+Face of Fear
+5B
+Creature -- Horror
+3/4
+{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+OD-U
+
+Faceless Butcher
+2BB
+Creature -- Nightmare Horror
+2/3
+When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.
+When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+TOR-C, TSP-S
+
+False Memories
+1U
+Instant
+Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.
+TOR-R
+
+Famished Ghoul
+3B
+Creature -- Zombie
+3/2
+{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard.
+OD-U
+
+Far Wanderings
+2G
+Sorcery
+Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+Threshold -- If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library.
+TOR-C
+
+Fervent Denial
+3UU
+Instant
+Counter target spell.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Fiery Temper
+1RR
+Instant
+Fiery Temper deals 3 damage to target creature or player.
+Madness {R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-C, TSP-S
+
+Filth
+3B
+Creature -- Incarnation
+2/2
+Swampwalk
+As long as Filth is in your graveyard and you control a Swamp, creatures you control have swampwalk.
+JUD-U
+
+Filthy Cur
+1B
+Creature -- Hound
+2/2
+Whenever Filthy Cur is dealt damage, you lose that much life.
+OD-C
+
+Firebolt
+R
+Sorcery
+Firebolt deals 2 damage to target creature or player.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Firecat Blitz
+XRR
+Sorcery
+Put X 1/1 red Elemental Cat creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.
+Flashback--{R}{R}, Sacrifice X Mountains. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-U
+
+Flame Burst
+1R
+Instant
+Flame Burst deals X damage to target creature or player, where X is 2 plus the number of cards named Flame Burst in all graveyards.
+OD-C
+
+Flaming Gambit
+XR
+Instant
+Flaming Gambit deals X damage to target player. That player may choose a creature he or she controls and have Flaming Gambit deal that damage to it instead.
+Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-U
+
+Flaring Pain
+1R
+Instant
+Damage can't be prevented this turn.
+Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C
+
+Flash of Defiance
+1R
+Sorcery
+Green creatures and white creatures can't block this turn.
+Flashback--{1}{R}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-C
+
+Flash of Insight
+X1U
+Instant
+Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Flashback--{1}{U}, Exile X blue cards from your graveyard. (You may cast this card from your graveyard for its flashback cost, then exile it. You can't exile Flash of Insight to pay for its own flashback cost.)
+JUD-U
+
+Fledgling Dragon
+2RR
+Creature -- Dragon
+2/2
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Fledgling Dragon gets +3/+3 and has "{R}: Fledgling Dragon gets +1/+0 until end of turn."
+JUD-R
+
+Fledgling Imp
+2B
+Creature -- Imp
+2/2
+{B}, Discard a card: Fledgling Imp gains flying until end of turn.
+OD-C
+
+Floating Shield
+2W
+Enchantment -- Aura
+Enchant creature
+As Floating Shield enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.
+Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.
+TOR-C
+
+Folk Medicine
+2G
+Instant
+You gain 1 life for each creature you control.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C
+
+Forcemage Advocate
+1G
+Creature -- Centaur Shaman
+2/1
+{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.
+JUD-U
+
+Forest
+Basic Land -- Forest
+A-L, B-L, U-L, RV-L, 4E-L, IA-L, MI-L, 5E-L, P1-L, TE-L, P2-L, US-L, 6E-L, P3K-L, S99-L, MM-L, S00-L, IN-L, 7E-L, OD-L, ONS-L, 8ED-L, MRD-L, CHK-L, 9ED-L, RAV-L, TSP-L, 10E-L, LRW-L, SHM-L, ALA-L, M10-L, ZEN-L, ROE-L, M11-L, SOM-L, MBS-L, NPH-L, CMD-L, M12-L, ISD-L, AVR-L, PC2-L, M13-L, RTR-L, ARC-L, HOP-L
+
+Frantic Purification
+2W
+Instant
+Destroy target enchantment.
+Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-C
+
+Frenetic Ogre
+4R
+Creature -- Ogre
+2/3
+{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn.
+OD-U
+
+Frightcrawler
+1B
+Creature -- Horror
+1/1
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Threshold -- As long as seven or more cards are in your graveyard, Frightcrawler gets +2/+2 and can't block.
+OD-C
+
+Funeral Pyre
+W
+Instant
+Exile target card from a graveyard. Its owner puts a 1/1 white Spirit creature token with flying onto the battlefield.
+JUD-C
+
+Gallantry
+1W
+Instant
+Target blocking creature gets +4/+4 until end of turn.
+Draw a card.
+TE-U, OD-U
+
+Genesis
+4G
+Creature -- Incarnation
+4/4
+At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.
+JUD-R
+
+Ghastly Demise
+B
+Instant
+Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.
+OD-C
+
+Ghostly Wings
+1U
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+Discard a card: Return enchanted creature to its owner's hand.
+TOR-C
+
+Giant Warthog
+5G
+Creature -- Boar Beast
+5/5
+Trample
+JUD-C
+
+Gloomdrifter
+3B
+Creature -- Zombie Minion
+2/2
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Gloomdrifter has "When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn."
+TOR-U
+
+Glory
+3WW
+Creature -- Incarnation
+3/3
+Flying
+{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
+JUD-R
+
+Golden Wish
+3WW
+Sorcery
+You may choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Exile Golden Wish.
+JUD-R
+
+Goretusk Firebeast
+5R
+Creature -- Elemental Boar Beast
+2/2
+When Goretusk Firebeast enters the battlefield, it deals 4 damage to target player.
+JUD-C
+
+Gorilla Titan
+3GG
+Creature -- Ape
+4/4
+Trample
+Gorilla Titan gets +4/+4 as long as there are no cards in your graveyard.
+OD-U
+
+Graceful Antelope
+2WW
+Creature -- Antelope
+1/4
+Plainswalk
+Whenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield.
+OD-R
+
+Grave Consequences
+1B
+Instant
+Each player may exile any number of cards from his or her graveyard. Then each player loses 1 life for each card in his or her graveyard.
+Draw a card.
+JUD-U
+
+Gravedigger
+3B
+Creature -- Zombie
+2/2
+When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+P1-U, TE-C, 6E-C, S99-U, 7E-C, OD-C, 8ED-C, 9ED-C, 10E-C, M10-C, M11-C, CMD-C, M12-C, HOP-C
+
+Gravegouger
+2B
+Creature -- Nightmare Horror
+2/2
+When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard.
+When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.
+TOR-C
+
+Gravestorm
+BBB
+Enchantment
+At the beginning of your upkeep, target opponent may exile a card from his or her graveyard. If that player doesn't, you may draw a card.
+OD-R
+
+Grim Lavamancer
+R
+Creature -- Human Wizard
+1/1
+{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.
+TOR-R, M12-R
+
+Grip of Amnesia
+1U
+Instant
+Counter target spell unless its controller exiles all cards from his or her graveyard.
+Draw a card.
+JUD-C
+
+Grizzly Fate
+3GG
+Sorcery
+Put two 2/2 green Bear creature tokens onto the battlefield.
+Threshold -- Put four 2/2 green Bear creature tokens onto the battlefield instead if seven or more cards are in your graveyard.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-U
+
+Grotesque Hybrid
+4B
+Creature -- Zombie
+3/3
+Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.
+TOR-U
+
+Ground Seal
+1G
+Enchantment
+When Ground Seal enters the battlefield, draw a card.
+Cards in graveyards can't be the targets of spells or abilities.
+OD-R, M13-R
+
+Guided Strike
+1W
+Instant
+Target creature gets +1/+0 and gains first strike until end of turn.
+Draw a card.
+WL-C, JUD-C
+
+Guiltfeeder
+3BB
+Creature -- Horror
+0/4
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.
+JUD-R
+
+Gurzigost
+3GG
+Creature -- Beast
+6/8
+At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.
+{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.
+TOR-R
+
+Halberdier
+3R
+Creature -- Human Barbarian
+3/1
+First strike
+OD-C
+
+Hallowed Healer
+2W
+Creature -- Human Cleric
+1/1
+{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Threshold -- {T}: Prevent the next 4 damage that would be dealt to target creature or player this turn. Activate this ability only if seven or more cards are in your graveyard.
+OD-C
+
+Hapless Researcher
+U
+Creature -- Human Wizard
+1/1
+Sacrifice Hapless Researcher: Draw a card, then discard a card.
+JUD-C
+
+Harvester Druid
+1G
+Creature -- Human Druid
+1/1
+{T}: Add to your mana pool one mana of any color that a land you control could produce.
+JUD-C
+
+Haunting Echoes
+3BB
+Sorcery
+Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+OD-R, M10-R, M11-R
+
+Hell-Bent Raider
+1RR
+Creature -- Human Barbarian
+2/2
+First strike, haste
+Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.
+TOR-R
+
+Hint of Insanity
+2B
+Sorcery
+Target player reveals his or her hand. That player discards all nonland cards with the same name as another card in his or her hand.
+OD-R
+
+Holistic Wisdom
+1GG
+Enchantment
+{2}, Exile a card from your hand: Return target card from your graveyard to your hand if it shares a card type with the card exiled this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)
+OD-R
+
+Howling Gale
+1G
+Instant
+Howling Gale deals 1 damage to each creature with flying and each player.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Hunting Grounds
+GW
+Enchantment
+Threshold -- As long as seven or more cards are in your graveyard, Hunting Grounds has "Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield."
+JUD-R
+
+Hydromorph Guardian
+2U
+Creature -- Elemental
+2/2
+{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.
+TOR-C
+
+Hydromorph Gull
+3UU
+Creature -- Elemental Bird
+3/3
+Flying
+{U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.
+TOR-U
+
+Hypnox
+8BBB
+Creature -- Nightmare Horror
+8/8
+Flying
+When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.
+When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.
+TOR-R
+
+Hypochondria
+1W
+Enchantment
+{W}, Discard a card: Prevent the next 3 damage that would be dealt to target creature or player this turn.
+{W}, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to target creature or player this turn.
+TOR-U
+
+Ichorid
+3B
+Creature -- Horror
+3/1
+Haste
+At the beginning of the end step, sacrifice Ichorid.
+At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.
+TOR-R
+
+Immobilizing Ink
+1U
+Enchantment -- Aura
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Discard a card: Untap this creature."
+OD-C
+
+Impulsive Maneuvers
+2RR
+Enchantment
+Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.
+OD-R
+
+Infected Vermin
+2B
+Creature -- Rat
+1/1
+{2}{B}: Infected Vermin deals 1 damage to each creature and each player.
+Threshold -- {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Infectious Rage
+1R
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +2/-1.
+When enchanted creature dies, choose a creature at random Infectious Rage can enchant. Return Infectious Rage to the battlefield attached to that creature.
+JUD-U
+
+Innocent Blood
+B
+Sorcery
+Each player sacrifices a creature.
+OD-C, HOP-C
+
+Insidious Dreams
+3B
+Instant
+As an additional cost to cast Insidious Dreams, discard X cards.
+Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.
+TOR-R
+
+Insist
+G
+Sorcery
+The next creature spell you cast this turn can't be countered by spells or abilities.
+Draw a card.
+TOR-R
+
+Invigorating Falls
+2GG
+Sorcery
+You gain life equal to the number of creature cards in all graveyards.
+TOR-C
+
+Iridescent Angel
+5WU
+Creature -- Angel
+4/4
+Flying, protection from all colors
+OD-R
+
+Ironshell Beetle
+1G
+Creature -- Insect
+1/1
+When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.
+JUD-C
+
+Island
+Basic Land -- Island
+A-L, B-L, U-L, RV-L, 4E-L, IA-L, MI-L, 5E-L, P1-L, TE-L, P2-L, US-L, 6E-L, P3K-L, S99-L, MM-L, S00-L, IN-L, 7E-L, OD-L, ONS-L, 8ED-L, MRD-L, CHK-L, 9ED-L, RAV-L, TSP-L, 10E-L, LRW-L, SHM-L, ALA-L, M10-L, ZEN-L, ROE-L, M11-L, SOM-L, MBS-L, NPH-L, CMD-L, M12-L, ISD-L, AVR-L, PC2-L, M13-L, RTR-L, ARC-L, HOP-L
+
+Ivy Elemental
+XG
+Creature -- Elemental
+0/0
+Ivy Elemental enters the battlefield with X +1/+1 counters on it.
+OD-R, HOP-R
+
+Jeska, Warrior Adept
+2RR
+Legendary Creature -- Human Barbarian Warrior
+3/1
+First strike, haste
+{T}: Jeska, Warrior Adept deals 1 damage to target creature or player.
+JUD-R
+
+Junk Golem
+4
+Artifact Creature -- Golem
+0/0
+Junk Golem enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.
+{1}, Discard a card: Put a +1/+1 counter on Junk Golem.
+OD-R
+
+Kamahl's Desire
+1R
+Enchantment -- Aura
+Enchant creature
+Enchanted creature has first strike.
+Threshold -- Enchanted creature gets +3/+0 as long as seven or more cards are in your graveyard.
+OD-C
+
+Kamahl's Sledge
+5RR
+Sorcery
+Kamahl's Sledge deals 4 damage to target creature.
+Threshold -- If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller.
+TOR-C
+
+Kamahl, Pit Fighter
+4RR
+Legendary Creature -- Human Barbarian
+6/1
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
+OD-R, 10E-R
+
+Karmic Justice
+2W
+Enchantment
+Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.
+OD-R
+
+Keep Watch
+2U
+Instant
+Draw a card for each attacking creature.
+JUD-C, HOP-C
+
+Kirtar's Desire
+W
+Enchantment -- Aura
+Enchant creature
+Enchanted creature can't attack.
+Threshold -- Enchanted creature can't block as long as seven or more cards are in your graveyard.
+OD-C
+
+Kirtar's Wrath
+4WW
+Sorcery
+Destroy all creatures. They can't be regenerated.
+Threshold -- If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.
+OD-R
+
+Krosan Archer
+3G
+Creature -- Centaur Archer
+2/3
+Reach (This creature can block creatures with flying.)
+{G}, Discard a card: Krosan Archer gets +0/+2 until end of turn.
+OD-C
+
+Krosan Avenger
+2G
+Creature -- Human Druid
+3/1
+Trample
+Threshold -- {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.
+OD-C
+
+Krosan Beast
+3G
+Creature -- Squirrel Beast
+1/1
+Threshold -- Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.
+OD-R
+
+Krosan Constrictor
+3G
+Creature -- Snake
+2/2
+Swampwalk
+{T}: Target black creature gets -2/-0 until end of turn.
+TOR-C
+
+Krosan Reclamation
+1G
+Instant
+Target player shuffles up to two target cards from his or her graveyard into his or her library.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-U
+
+Krosan Restorer
+2G
+Creature -- Human Druid
+1/2
+{T}: Untap target land.
+Threshold -- {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+TOR-C
+
+Krosan Verge
+Land
+Krosan Verge enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+JUD-U, PC2-U, ARC-U
+
+Krosan Wayfarer
+G
+Creature -- Human Druid
+1/1
+Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.
+JUD-C
+
+Laquatus's Champion
+4BB
+Creature -- Nightmare Horror
+6/3
+When Laquatus's Champion enters the battlefield, target player loses 6 life.
+When Laquatus's Champion leaves the battlefield, that player gains 6 life.
+{B}: Regenerate Laquatus's Champion.
+TOR-R
+
+Laquatus's Creativity
+4U
+Sorcery
+Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.
+OD-U
+
+Laquatus's Disdain
+1U
+Instant
+Counter target spell cast from a graveyard.
+Draw a card.
+JUD-U
+
+Last Laugh
+2BB
+Enchantment
+Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player.
+When no creatures are on the battlefield, sacrifice Last Laugh.
+TOR-R
+
+Last Rites
+2B
+Sorcery
+Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.
+OD-C
+
+Lava Blister
+1R
+Sorcery
+Destroy target nonbasic land unless its controller has Lava Blister deal 6 damage to him or her.
+OD-U
+
+Lava Dart
+R
+Instant
+Lava Dart deals 1 damage to target creature or player.
+Flashback--Sacrifice a Mountain. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C
+
+Lead Astray
+1W
+Instant
+Tap up to two target creatures.
+JUD-C
+
+Leaf Dancer
+1GG
+Creature -- Centaur
+2/2
+Forestwalk
+OD-C
+
+Liberated Dwarf
+R
+Creature -- Dwarf
+1/1
+{R}, Sacrifice Liberated Dwarf: Target green creature gets +1/+0 and gains first strike until end of turn.
+JUD-C
+
+Lieutenant Kirtar
+1WW
+Legendary Creature -- Bird Soldier
+2/2
+Flying
+{1}{W}, Sacrifice Lieutenant Kirtar: Exile target attacking creature.
+OD-R
+
+Life Burst
+1W
+Instant
+Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard.
+OD-C
+
+Lightning Surge
+3RR
+Sorcery
+Lightning Surge deals 4 damage to target creature or player.
+Threshold -- If seven or more cards are in your graveyard, instead Lightning Surge deals 6 damage to that creature or player and the damage can't be prevented.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-R
+
+Limestone Golem
+6
+Artifact Creature -- Golem
+3/4
+{2}, Sacrifice Limestone Golem: Target player draws a card.
+OD-U
+
+Liquid Fire
+4RR
+Sorcery
+As an additional cost to cast Liquid Fire, choose a number between 0 and 5.
+Liquid Fire deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number.
+OD-U
+
+Liquify
+2U
+Instant
+Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+TOR-C
+
+Lithatog
+1RG
+Creature -- Atog
+1/2
+Sacrifice an artifact: Lithatog gets +1/+1 until end of turn.
+Sacrifice a land: Lithatog gets +1/+1 until end of turn.
+OD-U
+
+Living Wish
+1G
+Sorcery
+You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.
+JUD-R
+
+Llawan, Cephalid Empress
+3U
+Legendary Creature -- Cephalid
+2/3
+When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.
+Your opponents can't cast blue creature spells.
+TOR-R
+
+Longhorn Firebeast
+2R
+Creature -- Elemental Ox Beast
+3/2
+When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.
+TOR-C
+
+Lost in Thought
+1U
+Enchantment -- Aura
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated. Its controller may exile three cards from his or her graveyard for that player to ignore this effect until end of turn.
+JUD-C
+
+Luminous Guardian
+3W
+Creature -- Human Nomad
+1/4
+{W}: Luminous Guardian gets +0/+1 until end of turn.
+{2}: Luminous Guardian can block an additional creature this turn.
+OD-U
+
+Mad Dog
+1R
+Creature -- Hound
+2/2
+At the beginning of your end step, if Mad Dog didn't attack or come under your control this turn, sacrifice it.
+OD-C
+
+Magma Vein
+2R
+Enchantment
+{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying.
+OD-U
+
+Magnivore
+2RR
+Creature -- Lhurgoyf
+*/*
+Haste (This creature can attack the turn it comes under your control.)
+Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.
+OD-R, 9ED-R
+
+Major Teroh
+3W
+Legendary Creature -- Bird Soldier
+2/3
+Flying
+{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.
+TOR-R
+
+Malevolent Awakening
+1BB
+Enchantment
+{1}{B}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.
+OD-U
+
+Masked Gorgon
+4B
+Creature -- Gorgon
+5/5
+Green creatures and white creatures have protection from Gorgons.
+Threshold -- Masked Gorgon has protection from green and from white as long as seven or more cards are in your graveyard.
+JUD-R
+
+Master Apothecary
+WWW
+Creature -- Human Cleric
+2/2
+Tap an untapped Cleric you control: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+OD-R
+
+Mental Note
+U
+Instant
+Put the top two cards of your library into your graveyard.
+Draw a card.
+JUD-C
+
+Mesmeric Fiend
+1B
+Creature -- Nightmare Horror
+1/1
+When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.
+When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+TOR-C
+
+Metamorphic Wurm
+3GG
+Creature -- Elephant Wurm
+3/3
+Threshold -- Metamorphic Wurm gets +4/+4 as long as seven or more cards are in your graveyard.
+OD-U
+
+Militant Monk
+1WW
+Creature -- Human Monk Cleric
+2/1
+Vigilance
+{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+TOR-C
+
+Millikin
+2
+Artifact Creature -- Construct
+0/1
+{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.
+OD-U
+
+Mind Burst
+1B
+Sorcery
+Target player discards X cards, where X is one plus the number of cards named Mind Burst in all graveyards.
+OD-C
+
+Mind Sludge
+4B
+Sorcery
+Target player discards a card for each Swamp you control.
+TOR-U, 8ED-U, ZEN-U
+
+Mindslicer
+2BB
+Creature -- Horror
+4/3
+When Mindslicer dies, each player discards his or her hand.
+OD-R, 9ED-R
+
+Mine Layer
+3R
+Creature -- Dwarf
+1/1
+{1}{R}, {T}: Put a mine counter on target land.
+Whenever a land with a mine counter on it becomes tapped, destroy it.
+When Mine Layer leaves the battlefield, remove all mine counters from all lands.
+OD-R
+
+Minotaur Explorer
+1R
+Creature -- Minotaur Scout
+3/3
+When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.
+OD-U
+
+Mirari
+5
+Legendary Artifact
+Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.
+OD-R, TSP-S
+
+Mirari's Wake
+3GW
+Enchantment
+Creatures you control get +1/+1.
+Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+JUD-R
+
+Mirror Wall
+3U
+Creature -- Wall
+3/4
+Defender (This creature can't attack.)
+{W}: Mirror Wall can attack this turn as though it didn't have defender.
+JUD-C
+
+Mist of Stagnation
+3UU
+Enchantment
+Permanents don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player chooses a permanent for each card in his or her graveyard, then untaps those permanents.
+JUD-R
+
+Molten Influence
+1R
+Instant
+Counter target instant or sorcery spell unless its controller has Molten Influence deal 4 damage to him or her.
+OD-R
+
+Moment's Peace
+1G
+Instant
+Prevent all combat damage that would be dealt this turn.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Morality Shift
+5BB
+Sorcery
+Exchange your graveyard and library. Then shuffle your library.
+JUD-R
+
+Morbid Hunger
+4BB
+Sorcery
+Morbid Hunger deals 3 damage to target creature or player. You gain 3 life.
+Flashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Morgue Theft
+1B
+Sorcery
+Return target creature card from your graveyard to your hand.
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Morningtide
+1W
+Sorcery
+Exile all cards from all graveyards.
+TOR-R
+
+Mortal Combat
+2BB
+Enchantment
+At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
+TOR-R, 10E-R
+
+Mortiphobia
+1BB
+Enchantment
+{1}{B}, Discard a card: Exile target card from a graveyard.
+{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.
+TOR-U
+
+Mortivore
+2BB
+Creature -- Lhurgoyf
+*/*
+Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore.
+OD-R, 9ED-R, 10E-R, CMD-R
+
+Mossfire Egg
+1
+Artifact
+{2}, {T}, Sacrifice Mossfire Egg: Add {R}{G} to your mana pool. Draw a card.
+OD-U
+
+Mossfire Valley
+Land
+{1}, {T}: Add {R}{G} to your mana pool.
+OD-R
+
+Mountain
+Basic Land -- Mountain
+A-L, B-L, U-L, AN-C, RV-L, 4E-L, IA-L, MI-L, 5E-L, P1-L, TE-L, P2-L, US-L, 6E-L, P3K-L, S99-L, MM-L, S00-L, IN-L, 7E-L, OD-L, ONS-L, 8ED-L, MRD-L, CHK-L, 9ED-L, RAV-L, TSP-L, 10E-L, LRW-L, SHM-L, ALA-L, M10-L, ZEN-L, ROE-L, M11-L, SOM-L, MBS-L, NPH-L, CMD-L, M12-L, ISD-L, AVR-L, PC2-L, M13-L, RTR-L, ARC-L, HOP-L
+
+Mudhole
+2R
+Instant
+Target player exiles all land cards from his or her graveyard.
+OD-R
+
+Muscle Burst
+1G
+Instant
+Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named Muscle Burst in all graveyards.
+OD-C
+
+Mutilate
+2BB
+Sorcery
+All creatures get -1/-1 until end of turn for each Swamp you control.
+TOR-R, M13-R
+
+Mystic Crusader
+1WW
+Creature -- Human Nomad Mystic
+2/1
+Protection from black and from red
+Threshold -- As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.
+OD-R
+
+Mystic Enforcer
+2GW
+Creature -- Human Nomad Mystic
+3/3
+Protection from black
+Threshold -- As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.
+OD-R, TSP-S
+
+Mystic Familiar
+1W
+Creature -- Bird
+1/2
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.
+TOR-C
+
+Mystic Penitent
+W
+Creature -- Human Nomad Mystic
+1/1
+Vigilance
+Threshold -- As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.
+OD-U
+
+Mystic Visionary
+1W
+Creature -- Human Nomad Mystic
+2/1
+Threshold -- Mystic Visionary has flying as long as seven or more cards are in your graveyard.
+OD-C
+
+Mystic Zealot
+3W
+Creature -- Human Nomad Mystic
+2/4
+Threshold -- As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.
+OD-C
+
+Nantuko Blightcutter
+2G
+Creature -- Insect Druid
+2/2
+Protection from black
+Threshold -- Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.
+TOR-R
+
+Nantuko Calmer
+2GG
+Creature -- Insect Druid
+2/3
+{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.
+Threshold -- Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.
+TOR-C
+
+Nantuko Cultivator
+3G
+Creature -- Insect Druid
+2/2
+When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.
+TOR-R
+
+Nantuko Disciple
+3G
+Creature -- Insect Druid
+2/2
+{G}, {T}: Target creature gets +2/+2 until end of turn.
+OD-C, 8ED-C
+
+Nantuko Elder
+2G
+Creature -- Insect Druid
+1/2
+{T}: Add {1}{G} to your mana pool.
+OD-U
+
+Nantuko Mentor
+2G
+Creature -- Insect Druid
+1/1
+{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power.
+OD-R
+
+Nantuko Monastery
+Land
+{T}: Add {1} to your mana pool.
+Threshold -- {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.
+JUD-U, ARC-U
+
+Nantuko Shade
+BB
+Creature -- Insect Shade
+2/1
+{B}: Nantuko Shade gets +1/+1 until end of turn.
+TOR-R, M11-R
+
+Nantuko Shrine
+1GG
+Enchantment
+Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.
+OD-R
+
+Nantuko Tracer
+1G
+Creature -- Insect Druid
+2/1
+When Nantuko Tracer enters the battlefield, you may put target card from a graveyard on the bottom of its owner's library.
+JUD-C
+
+Narcissism
+2G
+Enchantment
+{G}, Discard a card: Target creature gets +2/+2 until end of turn.
+{G}, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn.
+TOR-U
+
+Need for Speed
+R
+Enchantment
+Sacrifice a land: Target creature gains haste until end of turn.
+OD-R
+
+Nefarious Lich
+BBBB
+Enchantment
+If damage would be dealt to you, exile that many cards from your graveyard instead. If you can't, you lose the game.
+If you would gain life, draw that many cards instead.
+When Nefarious Lich leaves the battlefield, you lose the game.
+OD-R
+
+New Frontiers
+XG
+Sorcery
+Each player may search his or her library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched his or her library this way shuffles it.
+OD-R
+
+Nimble Mongoose
+G
+Creature -- Mongoose
+1/1
+Shroud (This permanent can't be the target of spells or abilities.)
+Threshold -- Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
+OD-U
+
+Nomad Decoy
+2W
+Creature -- Human Nomad
+1/2
+{W}, {T}: Tap target creature.
+Threshold -- {W}{W}, {T}: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Nomad Mythmaker
+2W
+Creature -- Human Nomad Cleric
+2/2
+{W}, {T}: Put target Aura card from a graveyard onto the battlefield under your control attached to a creature you control.
+JUD-R, 10E-R
+
+Nomad Stadium
+Land
+{T}: Add {W} to your mana pool. Nomad Stadium deals 1 damage to you.
+Threshold -- {W}, {T}, Sacrifice Nomad Stadium: You gain 4 life. Activate this ability only if seven or more cards are in your graveyard.
+OD-U
+
+Nostalgic Dreams
+GG
+Sorcery
+As an additional cost to cast Nostalgic Dreams, discard X cards.
+Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams.
+TOR-R
+
+Nullmage Advocate
+2G
+Creature -- Insect Druid
+2/3
+{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.
+JUD-C, PC2-C
+
+Nut Collector
+5G
+Creature -- Human Druid
+1/1
+At the beginning of your upkeep, you may put a 1/1 green Squirrel creature token onto the battlefield.
+Threshold -- Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard.
+OD-R
+
+Obsessive Search
+U
+Instant
+Draw a card.
+Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-C
+
+Obstinate Familiar
+R
+Creature -- Lizard
+1/1
+If you would draw a card, you may skip that draw instead.
+OD-R
+
+Organ Grinder
+2B
+Creature -- Zombie
+3/1
+{T}, Exile three cards from your graveyard: Target player loses 3 life.
+TOR-C
+
+Otarian Juggernaut
+4
+Artifact Creature -- Juggernaut
+2/3
+Otarian Juggernaut can't be blocked by Walls.
+Threshold -- As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each turn if able.
+OD-R
+
+Overeager Apprentice
+2B
+Creature -- Human Minion
+1/2
+Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.
+OD-C
+
+Overmaster
+R
+Sorcery
+The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.
+Draw a card.
+TOR-R
+
+Overrun
+2GGG
+Sorcery
+Creatures you control get +3/+3 and gain trample until end of turn.
+TE-U, OD-U, 10E-U, M10-U, M12-U, PC2-U
+
+Painbringer
+2BB
+Creature -- Human Minion
+1/1
+{T}, Exile any number of cards from your graveyard: Target creature gets -X/-X until end of turn, where X is the number of cards exiled this way.
+OD-U
+
+Parallel Evolution
+3GG
+Sorcery
+For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.
+Flashback {4}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-R
+
+Pardic Arsonist
+2RR
+Creature -- Human Barbarian
+3/3
+Threshold -- As long as seven or more cards are in your graveyard, Pardic Arsonist has "When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player."
+TOR-U
+
+Pardic Collaborator
+3R
+Creature -- Human Barbarian
+2/2
+First strike
+{B}: Pardic Collaborator gets +1/+1 until end of turn.
+TOR-U
+
+Pardic Firecat
+3R
+Creature -- Elemental Cat
+2/3
+Haste
+If Pardic Firecat is in a graveyard, effects from spells named Flame Burst count it as a card named Flame Burst.
+OD-C
+
+Pardic Lancer
+4R
+Creature -- Human Barbarian
+3/2
+Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.
+TOR-C
+
+Pardic Miner
+1R
+Creature -- Dwarf
+1/1
+Sacrifice Pardic Miner: Target player can't play lands this turn.
+OD-R
+
+Pardic Swordsmith
+2R
+Creature -- Dwarf
+1/1
+{R}, Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn.
+OD-C
+
+Patchwork Gnomes
+3
+Artifact Creature -- Gnome
+2/1
+Discard a card: Regenerate Patchwork Gnomes.
+TE-U, OD-U
+
+Patriarch's Desire
+3B
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +2/-2.
+Threshold -- Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.
+OD-C
+
+Patrol Hound
+1W
+Creature -- Hound
+2/2
+Discard a card: Patrol Hound gains first strike until end of turn.
+OD-C
+
+Patron Wizard
+UUU
+Creature -- Human Wizard
+2/2
+Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.
+OD-R
+
+Pay No Heed
+W
+Instant
+Prevent all damage a source of your choice would deal this turn.
+TOR-C
+
+Pedantic Learning
+UU
+Enchantment
+Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card.
+OD-R
+
+Peek
+U
+Instant
+Look at target player's hand.
+Draw a card.
+OD-C, 10E-C
+
+Persuasion
+3UU
+Enchantment -- Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+You control enchanted creature.
+OD-R, 10E-U
+
+Petradon
+6RR
+Creature -- Nightmare Beast
+5/6
+When Petradon enters the battlefield, exile two target lands.
+When Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.
+{R}: Petradon gets +1/+0 until end of turn.
+TOR-R
+
+Petravark
+3R
+Creature -- Nightmare Beast
+2/2
+When Petravark enters the battlefield, exile target land.
+When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+TOR-C
+
+Petrified Field
+Land
+{T}: Add {1} to your mana pool.
+{T}, Sacrifice Petrified Field: Return target land card from your graveyard to your hand.
+OD-R
+
+Phantatog
+1WU
+Creature -- Atog
+1/2
+Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn.
+Discard a card: Phantatog gets +1/+1 until end of turn.
+OD-U
+
+Phantom Centaur
+2GG
+Creature -- Centaur Spirit
+2/0
+Protection from black
+Phantom Centaur enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.
+JUD-U
+
+Phantom Flock
+3WW
+Creature -- Bird Soldier Spirit
+0/0
+Flying
+Phantom Flock enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock.
+JUD-U
+
+Phantom Nantuko
+2G
+Creature -- Insect Spirit
+0/0
+Trample
+Phantom Nantuko enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko.
+{T}: Put a +1/+1 counter on Phantom Nantuko.
+JUD-R
+
+Phantom Nishoba
+5GW
+Creature -- Cat Beast Spirit
+0/0
+Trample
+Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.
+Whenever Phantom Nishoba deals damage, you gain that much life.
+If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.
+JUD-R
+
+Phantom Nomad
+1W
+Creature -- Spirit Nomad
+0/0
+Phantom Nomad enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad.
+JUD-C
+
+Phantom Tiger
+2G
+Creature -- Cat Spirit
+1/0
+Phantom Tiger enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Tiger, prevent that damage. Remove a +1/+1 counter from Phantom Tiger.
+JUD-C
+
+Phantom Whelp
+1U
+Creature -- Illusion Hound
+2/2
+When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)
+OD-C
+
+Pianna, Nomad Captain
+1WW
+Legendary Creature -- Human Nomad
+2/2
+Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn.
+OD-R
+
+Pilgrim of Justice
+2W
+Creature -- Human Cleric
+1/3
+Protection from red
+{W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.
+OD-C
+
+Pilgrim of Virtue
+2W
+Creature -- Human Cleric
+1/3
+Protection from black
+{W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.
+OD-C
+
+Piper's Melody
+G
+Sorcery
+Shuffle any number of target creature cards from your graveyard into your library.
+OD-U
+
+Pitchstone Wall
+2R
+Creature -- Wall
+2/5
+Defender (This creature can't attack.)
+Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.
+TOR-U
+
+Plagiarize
+3U
+Instant
+Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
+TOR-R, 9ED-R, 10E-R
+
+Plains
+Basic Land -- Plains
+A-L, B-L, U-L, RV-L, 4E-L, IA-L, MI-L, 5E-L, P1-L, TE-L, P2-L, US-L, 6E-L, P3K-L, S99-L, MM-L, S00-L, IN-L, 7E-L, OD-L, ONS-L, 8ED-L, MRD-L, CHK-L, 9ED-L, RAV-L, TSP-L, 10E-L, LRW-L, SHM-L, ALA-L, M10-L, ZEN-L, ROE-L, M11-L, SOM-L, MBS-L, NPH-L, CMD-L, M12-L, ISD-L, AVR-L, PC2-L, M13-L, RTR-L, ARC-L, HOP-L
+
+Planar Chaos
+2R
+Enchantment
+At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice Planar Chaos.
+Whenever a player casts a spell, that player flips a coin. If he or she loses the flip, counter that spell.
+JUD-U
+
+Possessed Aven
+2UU
+Creature -- Bird Soldier Horror
+3/3
+Flying
+Threshold -- As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target blue creature."
+TOR-R
+
+Possessed Barbarian
+2RR
+Creature -- Human Barbarian Horror
+3/3
+First strike
+Threshold -- As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target red creature."
+TOR-R
+
+Possessed Centaur
+2GG
+Creature -- Centaur Horror
+3/3
+Trample
+Threshold -- As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target green creature."
+TOR-R
+
+Possessed Nomad
+2WW
+Creature -- Human Nomad Horror
+3/3
+Vigilance
+Threshold -- As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target white creature."
+TOR-R
+
+Predict
+1U
+Instant
+Name a card, then target player puts the top card of his or her library into his or her graveyard. If that card is the named card, you draw two cards. Otherwise, you draw a card.
+OD-U
+
+Price of Glory
+2R
+Enchantment
+Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.
+OD-U
+
+Primal Frenzy
+G
+Enchantment -- Aura
+Enchant creature
+Enchanted creature has trample.
+OD-C
+
+Prismatic Strands
+2W
+Instant
+Prevent all damage that sources of the color of your choice would deal this turn.
+Flashback--Tap an untapped white creature you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C
+
+Psionic Gift
+1U
+Enchantment -- Aura
+Enchant creature
+Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+OD-C
+
+Psychatog
+1UB
+Creature -- Atog
+1/2
+Discard a card: Psychatog gets +1/+1 until end of turn.
+Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+OD-U
+
+Psychotic Haze
+2BB
+Instant
+Psychotic Haze deals 1 damage to each creature and each player.
+Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-C
+
+Pulsating Illusion
+4U
+Creature -- Illusion
+0/1
+Flying
+Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate this ability only once each turn.
+OD-U
+
+Pulsemage Advocate
+2W
+Creature -- Human Cleric
+1/3
+{T}: Return three target cards from an opponent's graveyard to his or her hand. Return target creature card from your graveyard to the battlefield.
+JUD-R
+
+Puppeteer
+2U
+Creature -- Human Wizard
+1/2
+{U}, {T}: You may tap or untap target creature.
+OD-U, 8ED-U, 9ED-U, 10E-U
+
+Putrid Imp
+B
+Creature -- Zombie Imp
+1/1
+Discard a card: Putrid Imp gains flying until end of turn.
+Threshold -- As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+TOR-C
+
+Pyromania
+2R
+Enchantment
+{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player.
+{1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.
+TOR-U
+
+Quiet Speculation
+1U
+Sorcery
+Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles his or her library.
+JUD-U
+
+Rabid Elephant
+4G
+Creature -- Elephant
+3/4
+Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.
+OD-C
+
+Radiate
+3RR
+Instant
+Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.
+TOR-R
+
+Rancid Earth
+1BB
+Sorcery
+Destroy target land.
+Threshold -- If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.
+TOR-C
+
+Rats' Feast
+XB
+Sorcery
+Exile X target cards from a single graveyard.
+JUD-C
+
+Ravaged Highlands
+Land
+Ravaged Highlands enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+{T}, Sacrifice Ravaged Highlands: Add one mana of any color to your mana pool.
+OD-C
+
+Ray of Distortion
+3W
+Instant
+Destroy target artifact or enchantment.
+Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Ray of Revelation
+1W
+Instant
+Destroy target enchantment.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+JUD-C, DKA-C
+
+Reborn Hero
+2W
+Creature -- Human Soldier
+2/2
+Vigilance
+Threshold -- As long as seven or more cards are in your graveyard, Reborn Hero has "When Reborn Hero dies, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control."
+TOR-R
+
+Reckless Charge
+R
+Sorcery
+Target creature gets +3/+0 and gains haste until end of turn.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C, HOP-C
+
+Recoup
+1R
+Sorcery
+Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Refresh
+2G
+Instant
+Regenerate target creature.
+Draw a card.
+OD-C
+
+Repel
+3U
+Instant
+Put target creature on top of its owner's library.
+OD-C
+
+Repentant Vampire
+3BB
+Creature -- Vampire
+3/3
+Flying
+Whenever a creature dealt damage by Repentant Vampire this turn dies, put a +1/+1 counter on Repentant Vampire.
+Threshold -- As long as seven or more cards are in your graveyard, Repentant Vampire is white and has "{T}: Destroy target black creature."
+OD-R
+
+Resilient Wanderer
+2WW
+Creature -- Human Nomad
+2/3
+First strike
+Discard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.
+OD-U
+
+Restless Dreams
+B
+Sorcery
+As an additional cost to cast Restless Dreams, discard X cards.
+Return X target creature cards from your graveyard to your hand.
+TOR-C
+
+Retraced Image
+U
+Sorcery
+Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.
+TOR-R
+
+Riftstone Portal
+Land
+{T}: Add {1} to your mana pool.
+As long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."
+JUD-U
+
+Rites of Initiation
+R
+Instant
+Discard any number of cards at random. Creatures you control get +1/+0 until end of turn for each card discarded this way.
+OD-C
+
+Rites of Refusal
+1U
+Instant
+Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.
+OD-C
+
+Rites of Spring
+1G
+Sorcery
+Discard any number of cards. Search your library for up to that many basic land cards, reveal those cards, and put them into your hand. Then shuffle your library.
+OD-C
+
+Roar of the Wurm
+6G
+Sorcery
+Put a 6/6 green Wurm creature token onto the battlefield.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Rotting Giant
+1B
+Creature -- Zombie Giant
+3/3
+Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a card from your graveyard.
+OD-U
+
+Sacred Rites
+W
+Instant
+Discard any number of cards. Creatures you control get +0/+1 until end of turn for each card discarded this way.
+OD-C
+
+Sadistic Hypnotist
+3BB
+Creature -- Human Minion
+2/2
+Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+OD-U
+
+Sandstone Deadfall
+3
+Artifact
+{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature.
+OD-U
+
+Sarcatog
+1BR
+Creature -- Atog
+1/2
+Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn.
+Sacrifice an artifact: Sarcatog gets +1/+1 until end of turn.
+OD-U
+
+Savage Firecat
+3RR
+Creature -- Elemental Cat
+0/0
+Trample
+Savage Firecat enters the battlefield with seven +1/+1 counters on it.
+Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.
+OD-R
+
+Scalpelexis
+4U
+Creature -- Beast
+1/5
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Scalpelexis deals combat damage to a player, that player exiles the top four cards of his or her library. If two or more of those cards have the same name, repeat this process.
+JUD-R, 10E-R
+
+Scorching Missile
+3R
+Sorcery
+Scorching Missile deals 4 damage to target player.
+Flashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-C
+
+Screams of the Damned
+3BB
+Enchantment
+{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.
+OD-U
+
+Scrivener
+4U
+Creature -- Human Wizard
+2/2
+When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.
+EX-U, OD-C
+
+Seafloor Debris
+Land
+Seafloor Debris enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.
+OD-C
+
+Second Thoughts
+4W
+Instant
+Exile target attacking creature.
+Draw a card.
+OD-C
+
+Seedtime
+1G
+Instant
+Cast Seedtime only during your turn.
+Take an extra turn after this one if an opponent cast a blue spell this turn.
+JUD-R
+
+Seize the Day
+3R
+Sorcery
+Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-R
+
+Selfless Exorcist
+3WW
+Creature -- Human Cleric
+3/4
+{T}: Exile target creature card from a graveyard. That card deals damage equal to its power to Selfless Exorcist.
+JUD-R
+
+Sengir Vampire
+3BB
+Creature -- Vampire
+4/4
+Flying
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+A-U, B-U, U-U, RV-U, 4E-U, TOR-R, 9ED-R, 10E-R, M12-U
+
+Serene Sunset
+XG
+Instant
+Prevent all combat damage X target creatures would deal this turn.
+JUD-U
+
+Seton's Desire
+2G
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Threshold -- As long as seven or more cards are in your graveyard, all creatures able to block enchanted creature do so.
+OD-C
+
+Seton's Scout
+1G
+Creature -- Centaur Druid Scout Archer
+2/1
+Reach (This creature can block creatures with flying.)
+Threshold -- Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.
+TOR-U
+
+Seton, Krosan Protector
+GGG
+Legendary Creature -- Centaur Druid
+2/2
+Tap an untapped Druid you control: Add {G} to your mana pool.
+OD-R
+
+Shade's Form
+1BB
+Enchantment -- Aura
+Enchant creature
+Enchanted creature has "{B}: This creature gets +1/+1 until end of turn."
+When enchanted creature dies, return that card to the battlefield under your control.
+TOR-C
+
+Shadowblood Egg
+1
+Artifact
+{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R} to your mana pool. Draw a card.
+OD-U
+
+Shadowblood Ridge
+Land
+{1}, {T}: Add {B}{R} to your mana pool.
+OD-R
+
+Shadowmage Infiltrator
+1UB
+Creature -- Human Wizard
+1/3
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.
+OD-R, TSP-S
+
+Shaman's Trance
+2R
+Instant
+Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.
+JUD-R
+
+Shambling Swarm
+1BBB
+Creature -- Horror
+3/3
+When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.
+TOR-R
+
+Shelter
+1W
+Instant
+Target creature you control gains protection from the color of your choice until end of turn.
+Draw a card.
+OD-C
+
+Shieldmage Advocate
+2W
+Creature -- Human Cleric
+1/3
+{T}: Return target card from an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.
+JUD-C
+
+Shifty Doppelganger
+2U
+Creature -- Shapeshifter
+1/1
+{3}{U}, Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield.
+OD-R
+
+Shower of Coals
+3RR
+Sorcery
+Shower of Coals deals 2 damage to each of up to three target creatures and/or players.
+Threshold -- Shower of Coals deals 4 damage to each of those creatures and/or players instead if seven or more cards are in your graveyard.
+OD-U
+
+Sickening Dreams
+1B
+Sorcery
+As an additional cost to cast Sickening Dreams, discard X cards.
+Sickening Dreams deals X damage to each creature and each player.
+TOR-U
+
+Silver Seraph
+5WWW
+Creature -- Angel
+6/6
+Flying
+Threshold -- Other creatures you control get +2/+2 as long as seven or more cards are in your graveyard.
+JUD-R
+
+Simplify
+G
+Sorcery
+Each player sacrifices an enchantment.
+OD-C
+
+Skeletal Scrying
+XB
+Instant
+As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.
+You draw X cards and you lose X life.
+OD-U
+
+Skull Fracture
+B
+Sorcery
+Target player discards a card.
+Flashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Skullscorch
+RR
+Sorcery
+Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.
+TOR-R
+
+Skycloud Egg
+1
+Artifact
+{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U} to your mana pool. Draw a card.
+OD-U
+
+Skycloud Expanse
+Land
+{1}, {T}: Add {W}{U} to your mana pool.
+OD-R
+
+Skyshooter
+1G
+Creature -- Centaur Archer
+1/2
+Reach (This creature can block creatures with flying.)
+{T}, Sacrifice Skyshooter: Destroy target attacking or blocking creature with flying.
+OD-U
+
+Skywing Aven
+2U
+Creature -- Bird Soldier
+2/1
+Flying
+Discard a card: Return Skywing Aven to its owner's hand.
+TOR-C
+
+Slithery Stalker
+1BB
+Creature -- Nightmare Horror
+1/1
+Swampwalk
+When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.
+When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+TOR-U
+
+Solitary Confinement
+2W
+Enchantment
+At the beginning of your upkeep, sacrifice Solitary Confinement unless you discard a card.
+Skip your draw step.
+You have shroud. (You can't be the target of spells or abilities.)
+Prevent all damage that would be dealt to you.
+JUD-R
+
+Sonic Seizure
+R
+Instant
+As an additional cost to cast Sonic Seizure, discard a card at random.
+Sonic Seizure deals 3 damage to target creature or player.
+TOR-C
+
+Soul Scourge
+4B
+Creature -- Nightmare Horror
+3/2
+Flying
+When Soul Scourge enters the battlefield, target player loses 3 life.
+When Soul Scourge leaves the battlefield, that player gains 3 life.
+TOR-C
+
+Soulcatcher
+1W
+Creature -- Bird Soldier
+1/1
+Flying
+Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.
+OD-U
+
+Soulcatchers' Aerie
+1W
+Enchantment
+Whenever a Bird is put into your graveyard from the battlefield, put a feather counter on Soulcatchers' Aerie.
+Bird creatures get +1/+1 for each feather counter on Soulcatchers' Aerie.
+JUD-U
+
+Soulgorger Orgg
+3RR
+Creature -- Nightmare Orgg
+6/6
+Trample
+When Soulgorger Orgg enters the battlefield, you lose all but 1 life.
+When Soulgorger Orgg leaves the battlefield, you gain life equal to the life you lost when it entered the battlefield.
+JUD-U
+
+Spark Mage
+R
+Creature -- Dwarf Wizard
+1/1
+Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.
+OD-U
+
+Spellbane Centaur
+2G
+Creature -- Centaur
+3/2
+Creatures you control can't be the targets of blue spells or abilities from blue sources.
+OD-R
+
+Spellgorger Barbarian
+3R
+Creature -- Human Nightmare Barbarian
+3/1
+When Spellgorger Barbarian enters the battlefield, discard a card at random.
+When Spellgorger Barbarian leaves the battlefield, draw a card.
+JUD-C
+
+Spelljack
+3UUU
+Instant
+Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.)
+JUD-R
+
+Sphere of Duty
+3W
+Enchantment
+If a green source would deal damage to you, prevent 2 of that damage.
+OD-U
+
+Sphere of Grace
+3W
+Enchantment
+If a black source would deal damage to you, prevent 2 of that damage.
+OD-U
+
+Sphere of Law
+3W
+Enchantment
+If a red source would deal damage to you, prevent 2 of that damage.
+OD-U
+
+Sphere of Reason
+3W
+Enchantment
+If a blue source would deal damage to you, prevent 2 of that damage.
+OD-U
+
+Sphere of Truth
+3W
+Enchantment
+If a white source would deal damage to you, prevent 2 of that damage.
+OD-U
+
+Spirit Cairn
+2W
+Enchantment
+Whenever a player discards a card, you may pay {W}. If you do, put a 1/1 white Spirit creature token with flying onto the battlefield.
+JUD-U
+
+Spirit Flare
+3W
+Instant
+Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls.
+Flashback--{1}{W}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+TOR-C
+
+Spiritualize
+2W
+Instant
+Until end of turn, whenever target creature deals damage, you gain that much life.
+Draw a card.
+OD-U
+
+Springing Tiger
+3G
+Creature -- Cat
+3/3
+Threshold -- Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.
+OD-C
+
+Spurnmage Advocate
+W
+Creature -- Human Nomad
+1/1
+{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target attacking creature.
+JUD-U, CMD-U
+
+Squirrel Mob
+1GG
+Creature -- Squirrel
+2/2
+Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
+OD-R
+
+Squirrel Nest
+1GG
+Enchantment -- Aura
+Enchant land
+Enchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield."
+OD-U
+
+Stalking Bloodsucker
+4BB
+Creature -- Vampire
+4/4
+Flying
+{1}{B}, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn.
+OD-R
+
+Standstill
+1U
+Enchantment
+When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.
+OD-U
+
+Steam Vines
+1RR
+Enchantment -- Aura
+Enchant land
+When enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of his or her choice.
+OD-U
+
+Steamclaw
+2
+Artifact
+{3}, {T}: Exile target card from a graveyard.
+{1}, Sacrifice Steamclaw: Exile target card from a graveyard.
+OD-U
+
+Stern Judge
+2W
+Creature -- Human Cleric
+2/2
+{T}: Each player loses 1 life for each Swamp he or she controls.
+TOR-U
+
+Still Life
+1GG
+Enchantment
+{G}{G}: Still Life becomes a 4/3 Centaur creature until end of turn. It's still an enchantment.
+OD-U
+
+Stitch Together
+BB
+Sorcery
+Return target creature card from your graveyard to your hand.
+Threshold -- Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
+JUD-U, CMD-U
+
+Stone-Tongue Basilisk
+4GGG
+Creature -- Basilisk
+4/5
+Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat.
+Threshold -- As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so.
+OD-R
+
+Strength of Isolation
+1W
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +1/+2 and has protection from black.
+Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-U
+
+Strength of Lunacy
+1B
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +2/+1 and has protection from white.
+Madness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-U
+
+Stupefying Touch
+1U
+Enchantment -- Aura
+Enchant creature
+When Stupefying Touch enters the battlefield, draw a card.
+Enchanted creature's activated abilities can't be activated.
+TOR-U
+
+Sudden Strength
+3G
+Instant
+Target creature gets +3/+3 until end of turn.
+Draw a card.
+JUD-C
+
+Sungrass Egg
+1
+Artifact
+{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W} to your mana pool. Draw a card.
+OD-U
+
+Sungrass Prairie
+Land
+{1}, {T}: Add {G}{W} to your mana pool.
+OD-R
+
+Suntail Hawk
+W
+Creature -- Bird
+1/1
+Flying (This creature can't be blocked except by creatures with flying or reach.)
+JUD-C, 8ED-C, 9ED-C, 10E-C
+
+Sutured Ghoul
+4BBB
+Creature -- Zombie
+*/*
+Trample
+As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.
+Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.
+JUD-R, M12-R
+
+Swamp
+Basic Land -- Swamp
+A-L, B-L, U-L, RV-L, 4E-L, IA-L, MI-L, 5E-L, P1-L, TE-L, P2-L, US-L, 6E-L, P3K-L, S99-L, MM-L, S00-L, IN-L, 7E-L, OD-L, ONS-L, 8ED-L, MRD-L, CHK-L, 9ED-L, RAV-L, TSP-L, 10E-L, LRW-L, SHM-L, ALA-L, M10-L, ZEN-L, ROE-L, M11-L, SOM-L, MBS-L, NPH-L, CMD-L, M12-L, ISD-L, AVR-L, PC2-L, M13-L, RTR-L, ARC-L, HOP-L
+
+Swelter
+3R
+Sorcery
+Swelter deals 2 damage to each of two target creatures.
+JUD-U
+
+Swirling Sandstorm
+3R
+Sorcery
+Threshold -- Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.
+JUD-C
+
+Sylvan Might
+1G
+Instant
+Target creature gets +2/+2 and gains trample until end of turn.
+Flashback {2}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Sylvan Safekeeper
+G
+Creature -- Human Wizard
+1/1
+Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)
+JUD-R
+
+Syncopate
+XU
+Instant
+Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+OD-C, RTR-U
+
+Tainted Field
+Land
+{T}: Add {1} to your mana pool.
+{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+TOR-U
+
+Tainted Isle
+Land
+{T}: Add {1} to your mana pool.
+{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+TOR-U, PC2-U
+
+Tainted Pact
+1B
+Instant
+Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.
+OD-R
+
+Tainted Peak
+Land
+{T}: Add {1} to your mana pool.
+{T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.
+TOR-U
+
+Tainted Wood
+Land
+{T}: Add {1} to your mana pool.
+{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.
+TOR-U
+
+Tarnished Citadel
+Land
+{T}: Add {1} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Tarnished Citadel deals 3 damage to you.
+OD-R
+
+Tattoo Ward
+2W
+Enchantment -- Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.
+Sacrifice Tattoo Ward: Destroy target enchantment.
+OD-U
+
+Telekinetic Bonds
+2UUU
+Enchantment
+Whenever a player discards a card, you may pay {1}{U}. If you do, you may tap or untap target permanent.
+JUD-R
+
+Temporary Insanity
+3R
+Instant
+Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.
+TOR-U
+
+Teroh's Faithful
+3W
+Creature -- Human Cleric
+1/4
+When Teroh's Faithful enters the battlefield, you gain 4 life.
+TOR-C
+
+Teroh's Vanguard
+3W
+Creature -- Human Nomad
+2/3
+Flash
+Threshold -- As long as seven or more cards are in your graveyard, Teroh's Vanguard has "When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn."
+TOR-U
+
+Terravore
+1GG
+Creature -- Lhurgoyf
+*/*
+Trample
+Terravore's power and toughness are each equal to the number of land cards in all graveyards.
+OD-R
+
+Test of Endurance
+2WW
+Enchantment
+At the beginning of your upkeep, if you have 50 or more life, you win the game.
+JUD-R
+
+Testament of Faith
+W
+Enchantment
+{X}: Testament of Faith becomes an X/X Wall creature with defender until end of turn. It's still an enchantment.
+OD-U
+
+Thaumatog
+1GW
+Creature -- Atog
+1/2
+Sacrifice a land: Thaumatog gets +1/+1 until end of turn.
+Sacrifice an enchantment: Thaumatog gets +1/+1 until end of turn.
+OD-U
+
+Thermal Blast
+4R
+Instant
+Thermal Blast deals 3 damage to target creature.
+Threshold -- Thermal Blast deals 5 damage to that creature instead if seven or more cards are in your graveyard.
+OD-C
+
+Think Tank
+2U
+Enchantment
+At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+OD-U
+
+Thought Devourer
+2UU
+Creature -- Beast
+4/4
+Flying
+Your maximum hand size is reduced by four.
+OD-R
+
+Thought Eater
+1U
+Creature -- Beast
+2/2
+Flying
+Your maximum hand size is reduced by three.
+OD-U
+
+Thought Nibbler
+U
+Creature -- Beast
+1/1
+Flying
+Your maximum hand size is reduced by two.
+OD-C
+
+Thriss, Nantuko Primus
+5GG
+Legendary Creature -- Insect Druid
+5/5
+{G}, {T}: Target creature gets +5/+5 until end of turn.
+JUD-R
+
+Timberland Ruins
+Land
+Timberland Ruins enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}, Sacrifice Timberland Ruins: Add one mana of any color to your mana pool.
+OD-C
+
+Time Stretch
+8UU
+Sorcery
+Target player takes two extra turns after this one.
+OD-R, 10E-R
+
+Tireless Tribe
+W
+Creature -- Human Nomad
+1/1
+Discard a card: Tireless Tribe gets +0/+4 until end of turn.
+OD-C
+
+Tombfire
+B
+Sorcery
+Target player exiles all cards with flashback from his or her graveyard.
+OD-R
+
+Touch of Invisibility
+3U
+Sorcery
+Target creature is unblockable this turn.
+Draw a card.
+OD-C
+
+Toxic Stench
+1B
+Instant
+Target nonblack creature gets -1/-1 until end of turn.
+Threshold -- If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.
+JUD-C
+
+Trained Pronghorn
+1W
+Creature -- Antelope
+1/1
+Discard a card: Prevent all damage that would be dealt to Trained Pronghorn this turn.
+JUD-C
+
+Transcendence
+3WWW
+Enchantment
+You don't lose the game for having 0 or less life.
+When you have 20 or more life, you lose the game.
+Whenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)
+TOR-R
+
+Traumatize
+3UU
+Sorcery
+Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+OD-R, 9ED-R, 10E-R, M10-R, M11-R
+
+Traveling Plague
+3BB
+Enchantment -- Aura
+Enchant creature
+At the beginning of each upkeep, put a plague counter on Traveling Plague.
+Enchanted creature gets -1/-1 for each plague counter on Traveling Plague.
+When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.
+OD-R
+
+Treacherous Vampire
+4B
+Creature -- Vampire
+4/4
+Flying
+Whenever Treacherous Vampire attacks or blocks, sacrifice it unless you exile a card from your graveyard.
+Threshold -- As long as seven or more cards are in your graveyard, Treacherous Vampire gets +2/+2 and has "When Treacherous Vampire dies, you lose 6 life."
+JUD-U
+
+Treacherous Werewolf
+2B
+Creature -- Werewolf Minion
+2/2
+Threshold -- As long as seven or more cards are in your graveyard, Treacherous Werewolf gets +2/+2 and has "When Treacherous Werewolf dies, you lose 4 life."
+JUD-C
+
+Treetop Sentinel
+2UU
+Creature -- Bird Soldier
+2/3
+Flying, protection from green
+OD-U
+
+Tremble
+1R
+Sorcery
+Each player sacrifices a land.
+OD-C
+
+Tunneler Wurm
+6GG
+Creature -- Wurm
+6/6
+Discard a card: Regenerate Tunneler Wurm.
+JUD-U
+
+Turbulent Dreams
+UU
+Sorcery
+As an additional cost to cast Turbulent Dreams, discard X cards.
+Return X target nonland permanents to their owners' hands.
+TOR-R
+
+Twigwalker
+2G
+Creature -- Insect
+2/2
+{1}{G}, Sacrifice Twigwalker: Two target creatures each get +2/+2 until end of turn.
+OD-U
+
+Unhinge
+2B
+Sorcery
+Target player discards a card.
+Draw a card.
+TOR-C
+
+Unifying Theory
+1U
+Enchantment
+Whenever a player casts a spell, that player may pay {2}. If the player does, he or she draws a card.
+OD-R
+
+Unquestioned Authority
+2W
+Enchantment -- Aura
+Enchant creature
+When Unquestioned Authority enters the battlefield, draw a card.
+Enchanted creature has protection from creatures.
+JUD-U
+
+Upheaval
+4UU
+Sorcery
+Return all permanents to their owners' hands.
+OD-R
+
+Valor
+3W
+Creature -- Incarnation
+2/2
+First strike
+As long as Valor is in your graveyard and you control a Plains, creatures you control have first strike.
+JUD-U, TSP-S
+
+Vampiric Dragon
+6BR
+Creature -- Vampire Dragon
+5/5
+Flying
+Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.
+{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+OD-R, ARC-R
+
+Vengeful Dreams
+WW
+Instant
+As an additional cost to cast Vengeful Dreams, discard X cards.
+Exile X target attacking creatures.
+TOR-R
+
+Venomous Vines
+2GG
+Sorcery
+Destroy target enchanted permanent.
+JUD-C
+
+Verdant Succession
+4G
+Enchantment
+Whenever a green nontoken creature dies, that creature's controller may search his or her library for a card with the same name as that creature and put it onto the battlefield. If that player does, he or she shuffles his or her library.
+OD-R
+
+Vigilant Sentry
+1WW
+Creature -- Human Nomad
+2/2
+Threshold -- As long as seven or more cards are in your graveyard, Vigilant Sentry gets +1/+1 and has "{T}: Target attacking or blocking creature gets +3/+3 until end of turn."
+JUD-C
+
+Violent Eruption
+1RRR
+Instant
+Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players.
+Madness {1}{R}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+TOR-U
+
+Vivify
+2G
+Instant
+Target land becomes a 3/3 creature until end of turn. It's still a land.
+Draw a card.
+OD-U
+
+Volcanic Spray
+1R
+Sorcery
+Volcanic Spray deals 1 damage to each creature without flying and each player.
+Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-U
+
+Volley of Boulders
+8R
+Sorcery
+Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.
+Flashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+OD-R
+
+Waste Away
+4B
+Instant
+As an additional cost to cast Waste Away, discard a card.
+Target creature gets -5/-5 until end of turn.
+TOR-C
+
+Wayward Angel
+4WW
+Creature -- Angel Horror
+4/4
+Flying, vigilance
+Threshold -- As long as seven or more cards are in your graveyard, Wayward Angel gets +3/+3, is black, has trample, and has "At the beginning of your upkeep, sacrifice a creature."
+OD-R
+
+Web of Inertia
+2U
+Enchantment
+At the beginning of each opponent's combat, that player may exile a card from his or her graveyard. If the player doesn't, creatures he or she controls can't attack you this turn.
+JUD-U
+
+Werebear
+1G
+Creature -- Human Bear Druid
+1/1
+{T}: Add {G} to your mana pool.
+Threshold -- Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
+OD-C
+
+Whipkeeper
+2RR
+Creature -- Dwarf
+1/1
+{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.
+OD-U
+
+Whispering Shade
+3B
+Creature -- Shade
+1/1
+Swampwalk
+{B}: Whispering Shade gets +1/+1 until end of turn.
+OD-C
+
+Wild Mongrel
+1G
+Creature -- Hound
+2/2
+Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+OD-C
+
+Wonder
+3U
+Creature -- Incarnation
+2/2
+Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.
+JUD-U, CMD-U
+
+Woodland Druid
+G
+Creature -- Human Druid
+1/2
+OD-C
+
+Words of Wisdom
+1U
+Instant
+You draw two cards, then each other player draws a card.
+OD-C
+
+Worldgorger Dragon
+3RRR
+Creature -- Nightmare Dragon
+7/7
+Flying, trample
+When Worldgorger Dragon enters the battlefield, exile all other permanents you control.
+When Worldgorger Dragon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.
+JUD-R
+
+Wormfang Behemoth
+3UU
+Creature -- Nightmare Fish Beast
+5/5
+When Wormfang Behemoth enters the battlefield, exile all cards from your hand.
+When Wormfang Behemoth leaves the battlefield, return the exiled cards to their owner's hand.
+JUD-R
+
+Wormfang Crab
+3U
+Creature -- Nightmare Crab
+3/6
+Wormfang Crab is unblockable.
+When Wormfang Crab enters the battlefield, an opponent chooses a permanent you control other than Wormfang Crab and exiles it.
+When Wormfang Crab leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+JUD-U
+
+Wormfang Drake
+2U
+Creature -- Nightmare Drake
+3/4
+Flying
+When Wormfang Drake enters the battlefield, sacrifice it unless you exile a creature you control other than Wormfang Drake.
+When Wormfang Drake leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+JUD-C
+
+Wormfang Manta
+5UU
+Creature -- Nightmare Fish Beast
+6/1
+Flying
+When Wormfang Manta enters the battlefield, you skip your next turn.
+When Wormfang Manta leaves the battlefield, you take an extra turn after this one.
+JUD-R
+
+Wormfang Newt
+1U
+Creature -- Nightmare Salamander Beast
+2/2
+When Wormfang Newt enters the battlefield, exile a land you control.
+When Wormfang Newt leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+JUD-C
+
+Wormfang Turtle
+2U
+Creature -- Nightmare Turtle Beast
+2/4
+When Wormfang Turtle enters the battlefield, exile a land you control.
+When Wormfang Turtle leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+JUD-U
+
+Zombie Assassin
+4B
+Creature -- Zombie Assassin
+3/2
+{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.
+OD-C
+
+Zombie Cannibal
+B
+Creature -- Zombie
+1/1
+Whenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard.
+OD-C
+
+Zombie Infestation
+1B
+Enchantment
+Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+OD-U, M12-U, ARC-U
+
+Zombie Trailblazer
+BBB
+Creature -- Zombie Scout
+2/2
+Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.
+Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn.
+TOR-U
+
+Zombify
+3B
+Sorcery
+Return target creature card from your graveyard to the battlefield.
+OD-U, 8ED-U, 9ED-U, ARC-U
+
+Zoologist
+3G
+Creature -- Human Druid
+1/2
+{3}{G}, {T}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.
+OD-R
+

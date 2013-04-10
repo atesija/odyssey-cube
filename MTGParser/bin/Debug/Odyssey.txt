@@ -1,0 +1,370 @@
+Abandoned Outpost 	$0.13
+Aboshan's Desire 	$0.24
+Aboshan, Cephalid Emperor 	$0.41
+Acceptable Losses 	$0.12
+Aegis of Honor 	$1.21
+AEther Burst 	$0.99
+Afflict 	$0.12
+Amugaba 	$0.3
+Anarchist 	$0.12
+Ancestral Tribute 	$0.31
+Angelic Wall 	$0.29
+Animal Boneyard 	$0.28
+Ashen Firebeast 	$0.3
+Atogatog 	$0.34
+Aura Graft 	$0.15
+Auramancer 	$0.15
+Aven Archer 	$0.15
+Aven Cloudchaser 	$0.12
+Aven Fisher 	$0.12
+Aven Flock 	$0.12
+Aven Shrine 	$0.3
+Aven Smokeweaver 	$0.15
+Aven Windreader 	$0.12
+Balancing Act 	$0.35
+Balshan Beguiler 	$0.15
+Balshan Griffin 	$0.15
+Bamboozle 	$0.2
+Barbarian Lunatic 	$0.12
+Barbarian Ring 	$0.64
+Bash to Bits 	$0.15
+Battle of Wits 	$0.41
+Battle Strain 	$0.15
+Bearscape 	$0.37
+Beast Attack 	$0.15
+Beloved Chaplain 	$0.49
+Blazing Salvo 	$0.36
+Blessed Orator 	$0.15
+Bloodcurdler 	$0.3
+Bog Wreckage 	$0.13
+Bomb Squad 	$0.43
+Braids, Cabal Minion 	$1.94
+Buried Alive 	$1.95
+Burning Sands 	$0.33
+Cabal Inquisitor 	$0.12
+Cabal Patriarch 	$0.33
+Cabal Pit 	$0.21
+Cabal Shrine 	$0.3
+Call of the Herd 	$1.02
+Cantivore 	$0.3
+Careful Study 	$1.56
+Cartographer 	$0.12
+Catalyst Stone 	$0.67
+Caustic Tar 	$0.15
+Cease-Fire 	$0.12
+Centaur Garden 	$0.21
+Cephalid Broker 	$0.23
+Cephalid Coliseum 	$3.54
+Cephalid Looter 	$0.12
+Cephalid Retainer 	$0.3
+Cephalid Scout 	$0.12
+Cephalid Shrine 	$0.3
+Chainflinger 	$0.12
+Chamber of Manipulation 	$0.2
+Chance Encounter 	$2.07
+Charmed Pendant 	$0.31
+Chatter of the Squirrel 	$0.32
+Childhood Horror 	$0.15
+Chlorophant 	$0.82
+Coffin Purge 	$0.15
+Cognivore 	$0.33
+Concentrate 	$0.48
+Confessor 	$0.27
+Crashing Centaur 	$0.15
+Crypt Creeper 	$0.12
+Crystal Quarry 	$4.12
+Cultural Exchange 	$1.36
+Cursed Monstrosity 	$0.3
+Darkwater Catacombs 	$2.97
+Darkwater Egg 	$0.36
+Decaying Soil 	$0.3
+Decimate 	$5.3
+Decompose 	$0.15
+Dedicated Martyr 	$0.12
+Deep Reconnaissance 	$0.21
+Delaying Shield 	$0.41
+Deluge 	$0.15
+Dematerialize 	$0.12
+Demolish 	$0.15
+Demoralize 	$0.12
+Deserted Temple 	$4.7
+Devoted Caretaker 	$1.41
+Diabolic Tutor 	$0.77
+Diligent Farmhand 	$0.12
+Dirty Wererat 	$0.12
+Divert 	$6.03
+Divine Sacrament 	$1.45
+Dogged Hunter 	$0.37
+Dreamwinder 	$0.12
+Druid Lyrist 	$0.12
+Druid's Call 	$1.14
+Dusk Imp 	$0.12
+Dwarven Grunt 	$0.14
+Dwarven Recruiter 	$0.22
+Dwarven Shrine 	$0.3
+Dwarven Strike Force 	$0.17
+Earnest Fellowship 	$0.3
+Earth Rift 	$0.12
+Elephant Ambush 	$0.12
+Ember Beast 	$0.12
+Embolden 	$0.12
+Engulfing Flames 	$0.15
+Entomb 	$25.21
+Epicenter 	$0.3
+Escape Artist 	$0.13
+Execute 	$0.15
+Extract 	$1.38
+Face of Fear 	$0.15
+Famished Ghoul 	$0.15
+Fervent Denial 	$0.15
+Filthy Cur 	$0.12
+Firebolt 	$0.23
+Flame Burst 	$0.15
+Fledgling Imp 	$0.12
+Forest (1) 	$0.0
+Forest (1) 	$0
+Forest (2) 	$0.0
+Forest (2) 	$0
+Forest (3) 	$0.0
+Forest (3) 	$0
+Forest (4) 	$0.0
+Forest (4) 	$0.01
+Frenetic Ogre 	$0.15
+Frightcrawler 	$0.12
+Gallantry 	$0.15
+Ghastly Demise 	$0.28
+Gorilla Titan 	$0.15
+Graceful Antelope 	$0.3
+Gravedigger 	$0.12
+Gravestorm 	$1.64
+Ground Seal 	$0.87
+Halberdier 	$0.12
+Hallowed Healer 	$0.12
+Haunting Echoes 	$0.74
+Hint of Insanity 	$0.3
+Holistic Wisdom 	$0.41
+Howling Gale 	$0.15
+Immobilizing Ink 	$0.12
+Impulsive Maneuvers 	$0.32
+Infected Vermin 	$0.2
+Innocent Blood 	$1.49
+Iridescent Angel 	$2.13
+Island (1) 	$0.0
+Island (1) 	$0.01
+Island (2) 	$0.0
+Island (2) 	$0
+Island (3) 	$0.0
+Island (3) 	$0
+Island (4) 	$0.0
+Island (4) 	$0.01
+Ivy Elemental 	$0.33
+Junk Golem 	$0.3
+Kamahl's Desire 	$0.12
+Kamahl, Pit Fighter 	$0.82
+Karmic Justice 	$3.68
+Kirtar's Desire 	$0.13
+Kirtar's Wrath 	$0.91
+Krosan Archer 	$0.12
+Krosan Avenger 	$0.12
+Krosan Beast 	$1.87
+Laquatus's Creativity 	$0.15
+Last Rites 	$0.13
+Lava Blister 	$0.28
+Leaf Dancer 	$0.12
+Lieutenant Kirtar 	$0.92
+Life Burst 	$0.27
+Limestone Golem 	$0.15
+Liquid Fire 	$0.15
+Lithatog 	$0.15
+Luminous Guardian 	$0.15
+Mad Dog 	$0.12
+Magma Vein 	$0.15
+Magnivore 	$0.71
+Malevolent Awakening 	$0.2
+Master Apothecary 	$0.88
+Metamorphic Wurm 	$0.2
+Millikin 	$0.19
+Mind Burst 	$0.12
+Mindslicer 	$0.64
+Mine Layer 	$0.99
+Minotaur Explorer 	$0.15
+Mirari 	$1.98
+Molten Influence 	$1.46
+Moment's Peace 	$0.55
+Morbid Hunger 	$0.12
+Morgue Theft 	$0.12
+Mortivore 	$1.49
+Mossfire Egg 	$0.16
+Mossfire Valley 	$1.59
+Mountain (1) 	$0.0
+Mountain (1) 	$0.01
+Mountain (2) 	$0.0
+Mountain (2) 	$0
+Mountain (3) 	$0.0
+Mountain (3) 	$0.01
+Mountain (4) 	$0.0
+Mountain (4) 	$0
+Mudhole 	$0.31
+Muscle Burst 	$0.12
+Mystic Crusader 	$0.3
+Mystic Enforcer 	$0.82
+Mystic Penitent 	$0.22
+Mystic Visionary 	$0.12
+Mystic Zealot 	$0.12
+Nantuko Disciple 	$0.12
+Nantuko Elder 	$0.16
+Nantuko Mentor 	$0.35
+Nantuko Shrine 	$0.44
+Need for Speed 	$0.34
+Nefarious Lich 	$0.61
+New Frontiers 	$1.48
+Nimble Mongoose 	$2.69
+Nomad Decoy 	$0.15
+Nomad Stadium 	$0.21
+Nut Collector 	$2.37
+Obstinate Familiar 	$0.3
+Otarian Juggernaut 	$0.3
+Overeager Apprentice 	$0.12
+Overrun 	$0.66
+Painbringer 	$0.15
+Pardic Firecat 	$0.12
+Pardic Miner 	$0.32
+Pardic Swordsmith 	$0.12
+Patchwork Gnomes 	$0.15
+Patriarch's Desire 	$0.12
+Patrol Hound 	$0.12
+Patron Wizard 	$6.24
+Pedantic Learning 	$0.3
+Peek 	$0.18
+Persuasion 	$0.39
+Petrified Field 	$2.72
+Phantatog 	$0.17
+Phantom Whelp 	$0.12
+Pianna, Nomad Captain 	$0.39
+Pilgrim of Justice 	$0.12
+Pilgrim of Virtue 	$0.12
+Piper's Melody 	$0.17
+Plains (1) 	$0.0
+Plains (1) 	$0
+Plains (2) 	$0.0
+Plains (2) 	$0
+Plains (3) 	$0.0
+Plains (3) 	$0
+Plains (4) 	$0.0
+Plains (4) 	$0
+Predict 	$0.28
+Price of Glory 	$0.49
+Primal Frenzy 	$0.12
+Psionic Gift 	$0.15
+Psychatog 	$0.77
+Pulsating Illusion 	$0.16
+Puppeteer 	$0.17
+Rabid Elephant 	$0.12
+Ravaged Highlands 	$0.12
+Ray of Distortion 	$0.12
+Reckless Charge 	$0.32
+Recoup 	$0.44
+Refresh 	$0.12
+Repel 	$0.12
+Repentant Vampire 	$0.63
+Resilient Wanderer 	$0.15
+Rites of Initiation 	$0.12
+Rites of Refusal 	$0.12
+Rites of Spring 	$0.12
+Roar of the Wurm 	$0.59
+Rotting Giant 	$0.2
+Sacred Rites 	$0.12
+Sadistic Hypnotist 	$0.49
+Sandstone Deadfall 	$0.15
+Sarcatog 	$0.15
+Savage Firecat 	$0.3
+Scorching Missile 	$0.12
+Screams of the Damned 	$0.15
+Scrivener 	$0.12
+Seafloor Debris 	$0.12
+Second Thoughts 	$0.12
+Seize the Day 	$0.41
+Seton's Desire 	$0.12
+Seton, Krosan Protector 	$0.33
+Shadowblood Egg 	$0.17
+Shadowblood Ridge 	$1.95
+Shadowmage Infiltrator 	$1.92
+Shelter 	$0.24
+Shifty Doppelganger 	$0.3
+Shower of Coals 	$0.19
+Simplify 	$0.12
+Skeletal Scrying 	$0.72
+Skull Fracture 	$0.15
+Skycloud Egg 	$0.22
+Skycloud Expanse 	$2.61
+Skyshooter 	$0.15
+Soulcatcher 	$1.01
+Spark Mage 	$0.31
+Spellbane Centaur 	$0.33
+Sphere of Duty 	$0.15
+Sphere of Grace 	$0.2
+Sphere of Law 	$0.29
+Sphere of Reason 	$0.15
+Sphere of Truth 	$0.15
+Spiritualize 	$0.2
+Springing Tiger 	$0.12
+Squirrel Mob 	$6.49
+Squirrel Nest 	$3.99
+Stalking Bloodsucker 	$0.3
+Standstill 	$5.91
+Steam Vines 	$0.15
+Steamclaw 	$0.15
+Still Life 	$0.15
+Stone-Tongue Basilisk 	$0.31
+Sungrass Egg 	$0.22
+Sungrass Prairie 	$1.86
+Swamp (1) 	$0.0
+Swamp (1) 	$0
+Swamp (2) 	$0.0
+Swamp (2) 	$0
+Swamp (3) 	$0.0
+Swamp (3) 	$0
+Swamp (4) 	$0.0
+Swamp (4) 	$0.01
+Sylvan Might 	$0.2
+Syncopate 	$0.34
+Tainted Pact 	$0.81
+Tarnished Citadel 	$3.95
+Tattoo Ward 	$0.15
+Terravore 	$6.95
+Testament of Faith 	$0.2
+Thaumatog 	$0.15
+Thermal Blast 	$0.12
+Think Tank 	$0.2
+Thought Devourer 	$0.3
+Thought Eater 	$0.15
+Thought Nibbler 	$0.12
+Timberland Ruins 	$0.12
+Time Stretch 	$4.49
+Tireless Tribe 	$0.51
+Tombfire 	$0.37
+Touch of Invisibility 	$0.12
+Traumatize 	$2.59
+Traveling Plague 	$0.37
+Treetop Sentinel 	$0.15
+Tremble 	$0.12
+Twigwalker 	$0.15
+Unifying Theory 	$0.35
+Upheaval 	$2.97
+Vampiric Dragon 	$3.34
+Verdant Succession 	$0.61
+Vivify 	$0.15
+Volcanic Spray 	$0.15
+Volley of Boulders 	$0.37
+Wayward Angel 	$0.71
+Werebear 	$0.45
+Whipkeeper 	$0.15
+Whispering Shade 	$0.12
+Wild Mongrel 	$0.39
+Woodland Druid 	$0.12
+Words of Wisdom 	$0.13
+Zombie Assassin 	$0.12
+Zombie Cannibal 	$0.36
+Zombie Infestation 	$0.49
+Zombify 	$0.9
+Zoologist 	$0.45

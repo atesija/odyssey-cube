@@ -1,0 +1,143 @@
+Ancestor's Chosen 	$0.15
+Anger 	$0.91
+Anurid Barkripper 	$0.12
+Anurid Brushhopper 	$0.41
+Anurid Swarmsnapper 	$0.15
+Arcane Teachings 	$0.12
+Aven Fogbringer 	$0.12
+Aven Warcraft 	$0.15
+Balthor the Defiled 	$2.85
+Barbarian Bully 	$0.12
+Battle Screech 	$0.28
+Battlefield Scrounger 	$0.13
+Battlewise Aven 	$0.12
+Benevolent Bodyguard 	$0.15
+Book Burning 	$0.16
+Border Patrol 	$0.12
+Brawn 	$0.48
+Breaking Point 	$3.24
+Browbeat 	$1.96
+Burning Wish 	$25.06
+Cabal Therapy 	$7.24
+Cabal Trainee 	$0.12
+Cagemail 	$0.12
+Canopy Claws 	$0.12
+Centaur Rootcaster 	$0.12
+Cephalid Constable 	$0.56
+Cephalid Inkshrouder 	$0.15
+Chastise 	$0.45
+Commander Eesha 	$1.67
+Crush of Wurms 	$0.95
+Cunning Wish 	$6.14
+Death Wish 	$0.44
+Defy Gravity 	$0.12
+Dwarven Bloodboiler 	$0.38
+Dwarven Driller 	$0.55
+Dwarven Scorcher 	$0.12
+Earsplitting Rats 	$0.12
+Elephant Guide 	$0.29
+Ember Shot 	$0.12
+Envelop 	$0.13
+Epic Struggle 	$1.14
+Erhnam Djinn 	$0.3
+Exoskeletal Armor 	$0.28
+Filth 	$0.47
+Firecat Blitz 	$0.15
+Flaring Pain 	$0.15
+Flash of Insight 	$0.18
+Fledgling Dragon 	$1.14
+Folk Medicine 	$0.14
+Forcemage Advocate 	$0.15
+Funeral Pyre 	$0.12
+Genesis 	$12.48
+Giant Warthog 	$0.12
+Glory 	$2
+Golden Wish 	$0.43
+Goretusk Firebeast 	$0.12
+Grave Consequences 	$0.15
+Grip of Amnesia 	$0.12
+Grizzly Fate 	$0.39
+Guided Strike 	$0.12
+Guiltfeeder 	$1.76
+Hapless Researcher 	$0.12
+Harvester Druid 	$0.12
+Hunting Grounds 	$2.32
+Infectious Rage 	$0.19
+Ironshell Beetle 	$0.12
+Jeska, Warrior Adept 	$0.82
+Keep Watch 	$0.12
+Krosan Reclamation 	$0.22
+Krosan Verge 	$0.55
+Krosan Wayfarer 	$0.15
+Laquatus's Disdain 	$0.15
+Lava Dart 	$0.15
+Lead Astray 	$0.12
+Liberated Dwarf 	$0.12
+Lightning Surge 	$0.46
+Living Wish 	$5.74
+Lost in Thought 	$0.15
+Masked Gorgon 	$0.3
+Mental Note 	$0.15
+Mirari's Wake 	$10.66
+Mirror Wall 	$0.12
+Mist of Stagnation 	$0.3
+Morality Shift 	$0.41
+Nantuko Monastery 	$0.46
+Nantuko Tracer 	$0.12
+Nomad Mythmaker 	$1.12
+Nullmage Advocate 	$0.12
+Phantom Centaur 	$0.41
+Phantom Flock 	$0.15
+Phantom Nantuko 	$0.38
+Phantom Nishoba 	$2.2
+Phantom Nomad 	$0.12
+Phantom Tiger 	$0.15
+Planar Chaos 	$0.51
+Prismatic Strands 	$0.23
+Pulsemage Advocate 	$0.34
+Quiet Speculation 	$0.24
+Rats' Feast 	$0.12
+Ray of Revelation 	$0.2
+Riftstone Portal 	$0.55
+Scalpelexis 	$0.82
+Seedtime 	$0.88
+Selfless Exorcist 	$0.3
+Serene Sunset 	$0.15
+Shaman's Trance 	$0.3
+Shieldmage Advocate 	$0.12
+Silver Seraph 	$1.71
+Solitary Confinement 	$4.57
+Soulcatchers' Aerie 	$1.12
+Soulgorger Orgg 	$0.15
+Spellgorger Barbarian 	$0.12
+Spelljack 	$1.89
+Spirit Cairn 	$0.19
+Spurnmage Advocate 	$0.15
+Stitch Together 	$0.72
+Sudden Strength 	$0.12
+Suntail Hawk 	$0.15
+Sutured Ghoul 	$0.55
+Swelter 	$0.15
+Swirling Sandstorm 	$0.12
+Sylvan Safekeeper 	$0.89
+Telekinetic Bonds 	$0.3
+Test of Endurance 	$4.23
+Thriss, Nantuko Primus 	$0.41
+Toxic Stench 	$0.12
+Trained Pronghorn 	$0.12
+Treacherous Vampire 	$0.15
+Treacherous Werewolf 	$0.12
+Tunneler Wurm 	$0.15
+Unquestioned Authority 	$0.45
+Valor 	$0.37
+Venomous Vines 	$0.12
+Vigilant Sentry 	$0.12
+Web of Inertia 	$0.36
+Wonder 	$1.02
+Worldgorger Dragon 	$1.15
+Wormfang Behemoth 	$0.3
+Wormfang Crab 	$0.15
+Wormfang Drake 	$0.14
+Wormfang Manta 	$0.3
+Wormfang Newt 	$0.12
+Wormfang Turtle 	$0.15

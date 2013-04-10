@@ -1,0 +1,5 @@
+c:\users\rpm\documents\visual studio 2010\Projects\MTGParser\MTGParser\bin\Debug\MTGParser.exe
+c:\users\rpm\documents\visual studio 2010\Projects\MTGParser\MTGParser\bin\Debug\MTGParser.pdb
+c:\users\rpm\documents\visual studio 2010\Projects\MTGParser\MTGParser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rpm\documents\visual studio 2010\Projects\MTGParser\MTGParser\obj\x86\Debug\MTGParser.exe
+c:\users\rpm\documents\visual studio 2010\Projects\MTGParser\MTGParser\obj\x86\Debug\MTGParser.pdb

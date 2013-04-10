@@ -1,0 +1,143 @@
+Accelerate 	$0.11
+Acorn Harvest 	$0.13
+Alter Reality 	$0.33
+Ambassador Laquatus 	$1.03
+Angel of Retribution 	$0.61
+Anurid Scavenger 	$0.15
+Aquamoeba 	$0.21
+Arrogant Wurm 	$0.77
+Aven Trooper 	$0.11
+Balshan Collaborator 	$0.15
+Balthor the Stout 	$0.33
+Barbarian Outcast 	$0.11
+Basking Rootwalla 	$0.54
+Boneshard Slasher 	$0.16
+Breakthrough 	$1.82
+Cabal Coffers 	$8.74
+Cabal Ritual 	$1.24
+Cabal Surgeon 	$0.11
+Cabal Torturer 	$0.11
+Carrion Rats 	$0.11
+Carrion Wurm 	$0.17
+Centaur Chieftain 	$0.15
+Centaur Veteran 	$0.11
+Cephalid Aristocrat 	$0.11
+Cephalid Illusionist 	$0.31
+Cephalid Sage 	$0.2
+Cephalid Snitch 	$0.11
+Cephalid Vandal 	$0.31
+Chainer's Edict 	$1.24
+Chainer, Dementia Master 	$0.96
+Churning Eddy 	$0.11
+Circular Logic 	$1.45
+Cleansing Meditation 	$0.3
+Compulsion 	$0.36
+Coral Net 	$0.14
+Crackling Club 	$0.11
+Crazed Firecat 	$0.15
+Crippling Fatigue 	$0.11
+Dawn of the Dead 	$0.59
+Deep Analysis 	$0.43
+Devastating Dreams 	$0.86
+Dwell on the Past 	$0.18
+Enslaved Dwarf 	$0.11
+Equal Treatment 	$0.15
+Faceless Butcher 	$0.15
+False Memories 	$0.3
+Far Wanderings 	$0.16
+Fiery Temper 	$0.2
+Flaming Gambit 	$0.15
+Flash of Defiance 	$0.11
+Floating Shield 	$0.11
+Frantic Purification 	$0.12
+Ghostly Wings 	$0.12
+Gloomdrifter 	$0.18
+Gravegouger 	$0.11
+Grim Lavamancer 	$4.82
+Grotesque Hybrid 	$0.24
+Gurzigost 	$0.43
+Hell-Bent Raider 	$0.32
+Hydromorph Guardian 	$0.11
+Hydromorph Gull 	$0.15
+Hypnox 	$0.82
+Hypochondria 	$0.15
+Ichorid 	$6.74
+Insidious Dreams 	$2.03
+Insist 	$0.59
+Invigorating Falls 	$0.11
+Kamahl's Sledge 	$0.11
+Krosan Constrictor 	$0.11
+Krosan Restorer 	$0.13
+Laquatus's Champion 	$1.19
+Last Laugh 	$0.33
+Liquify 	$0.11
+Llawan, Cephalid Empress 	$3.65
+Longhorn Firebeast 	$0.11
+Major Teroh 	$0.44
+Mesmeric Fiend 	$0.15
+Militant Monk 	$0.11
+Mind Sludge 	$0.2
+Morningtide 	$0.3
+Mortal Combat 	$0.63
+Mortiphobia 	$0.15
+Mutilate 	$4.33
+Mystic Familiar 	$0.11
+Nantuko Blightcutter 	$0.39
+Nantuko Calmer 	$0.11
+Nantuko Cultivator 	$0.31
+Nantuko Shade 	$1.38
+Narcissism 	$0.15
+Nostalgic Dreams 	$0.56
+Obsessive Search 	$0.17
+Organ Grinder 	$0.11
+Overmaster 	$3.72
+Parallel Evolution 	$3.49
+Pardic Arsonist 	$0.15
+Pardic Collaborator 	$0.15
+Pardic Lancer 	$0.11
+Pay No Heed 	$0.11
+Petradon 	$0.3
+Petravark 	$0.11
+Pitchstone Wall 	$0.15
+Plagiarize 	$0.3
+Possessed Aven 	$0.3
+Possessed Barbarian 	$0.3
+Possessed Centaur 	$0.3
+Possessed Nomad 	$0.32
+Psychotic Haze 	$0.11
+Putrid Imp 	$0.88
+Pyromania 	$0.15
+Radiate 	$0.43
+Rancid Earth 	$0.32
+Reborn Hero 	$0.39
+Restless Dreams 	$0.11
+Retraced Image 	$0.62
+Sengir Vampire 	$0.58
+Seton's Scout 	$0.17
+Shade's Form 	$0.15
+Shambling Swarm 	$0.32
+Sickening Dreams 	$0.23
+Skullscorch 	$0.82
+Skywing Aven 	$0.11
+Slithery Stalker 	$0.15
+Sonic Seizure 	$0.15
+Soul Scourge 	$0.11
+Spirit Flare 	$0.11
+Stern Judge 	$0.15
+Strength of Isolation 	$0.15
+Strength of Lunacy 	$0.2
+Stupefying Touch 	$0.15
+Tainted Field 	$1.56
+Tainted Isle 	$1.56
+Tainted Peak 	$1.16
+Tainted Wood 	$1.57
+Temporary Insanity 	$0.15
+Teroh's Faithful 	$0.11
+Teroh's Vanguard 	$0.15
+Transcendence 	$0.44
+Turbulent Dreams 	$0.38
+Unhinge 	$0.11
+Vengeful Dreams 	$0.61
+Violent Eruption 	$0.36
+Waste Away 	$0.11
+Zombie Trailblazer 	$0.98
